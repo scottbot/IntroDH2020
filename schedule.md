@@ -157,3 +157,33 @@ Session Leader: ??
 - Wilson, A. N. (2012). *ScanOps*. [http://www.andrewnormanwilson.com/ScanOps.html](http://www.andrewnormanwilson.com/ScanOps.html)
 - Wilson, K. (2018). *The Art of Google Books*. [https://theartofgooglebooks.tumblr.com/?og=1](https://theartofgooglebooks.tumblr.com/?og=1)
 - Zeffiro, A. (2019). Digitizing Labor in the Google Books Project. In S. Ross & A. Pilsch, *Humans at Work in the Digital Age: Forms of Digital Textual Labor*. Routledge. [https://doi.org/10.4324/9780429244599](https://doi.org/10.4324/9780429244599)
+
+## 2/12 - 8. Politics, Laws, and Pirates
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Ávila-Torres, V. (2016). Making Sense of Acquiring Music in Mexico City. In R. Nowak & A. Whelan (Eds.), *Networked Music Cultures: Contemporary Approaches, Emerging Issues* (pp. 77–93). Palgrave Macmillan UK. [https://doi.org/10.1057/978-1-137-58290-4_6](https://doi.org/10.1057/978-1-137-58290-4_6)
+- The Authors Guild v. Hathitrust, No. 156 (United States District Court Southern District of New York October 10, 2012). [https://cases.justia.com/federal/district-courts/new-york/nysdce/1:2011cv06351/384619/156/0.pdf](https://cases.justia.com/federal/district-courts/new-york/nysdce/1:2011cv06351/384619/156/0.pdf)
+- Balázs, B. (2011). Coda: A Short History of Book Piracy. In Joe Karaganis, *Media Piracy in Emerging Economies*. Lulu.com.
+- Castelvecchi, D. (2019). Venice ‘time machine’ project suspended amid data row. *Nature*, *574*(7780), 607–607. [https://doi.org/10.1038/d41586-019-03240-w](https://doi.org/10.1038/d41586-019-03240-w)
+- Cox, K. (2015, January 8). Authors Guild v. HathiTrust Litigation Ends in Victory for Fair Use. *Association of Research Libraries Policy Notes*. [https://www.arl.org/news/authors-guild-v-hathitrust-litigation-ends-in-victory-for-fair-use/](https://www.arl.org/news/authors-guild-v-hathitrust-litigation-ends-in-victory-for-fair-use/)
+- Elbakyan, A. (2020). *Sci-Hub: Removing barriers in the way of science*. Sci-Hub. [https://sci-hub.tw/](https://sci-hub.tw/)
+- Gallé, M., & Tealdi, M. (2015). Reconstructing Textual Documents from N-grams. *Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, 329–338. [https://doi.org/10.1145/2783258.2783361](https://doi.org/10.1145/2783258.2783361)
+- Jockers, M., Sag, M., & Schultz, J. (2012). *Brief of Digital Humanities and Law Scholars as Amici Curiae in Authors Guild v. Google* (SSRN Scholarly Paper ID 2102542). Social Science Research Network. [https://papers.ssrn.com/abstract=2102542](https://papers.ssrn.com/abstract=2102542)
+- Library Genesis Team. (2020). *Library Genesis*. Library Genesis. [https://libgen.is/](https://libgen.is/)
+- Rosenberg, S. (2017, April 11). How Google Book Search Got Lost. *Wired*. [https://www.wired.com/2017/04/how-google-book-search-got-lost/](https://www.wired.com/2017/04/how-google-book-search-got-lost/)
+- Samuelson, P. (2009). Google Book Search and the Future of Books in Cyberspace. *Minnesota Law Review*, *94*, 1308.
+- Samuelson, P. (2011). The Google Book Settlement as Copyright Reform. *Wisconsin Law Review*, *2011*, 479.
+- Summary: Authors Guild v. Google Inc., No. 13-4829–cv (Second Circuit October 16, 2015). [https://www.copyright.gov/fair-use/summaries/authorsguild-google-2dcir2015.pdf](https://www.copyright.gov/fair-use/summaries/authorsguild-google-2dcir2015.pdf)
+- Wikipedia Editors. (2019a). *Authors Guild, Inc. V. Google, Inc*. In *Wikipedia*. [https://en.wikipedia.org/w/index.php?title=Authors_Guild,_Inc._v._Google,_Inc.&oldid=920014592](https://en.wikipedia.org/w/index.php?title=Authors_Guild,_Inc._v._Google,_Inc.&oldid=920014592)
+- Wikipedia Editors. (2019b). *Authors Guild, Inc. V. HathiTrust*. In Wikipedia. [https://en.wikipedia.org/w/index.php?title=Authors_Guild,_Inc._v._HathiTrust&oldid=921770897](https://en.wikipedia.org/w/index.php?title=Authors_Guild,_Inc._v._HathiTrust&oldid=921770897)
+
