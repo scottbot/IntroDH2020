@@ -89,12 +89,6 @@ Following the project proposals, class members will choose one of the proposed p
 | Final Project	(Individual) | 10% |
 | Final Project	(Group) | 15% |
 
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
-
 ### Acknowledgements
 This course draws from classes taught by Lauren Klein, Ryan Cordell, Shawn Graham, Kristen Mapes, Quinn Dombrowski, Cameron Blevins, Jason Heppler, Abby Mullen, Jessica Otis, Kalani Craig, Lincoln Mullen, Alison Langmead, David Mimno, David Bamman, Miriam Posner, Johanna Drucker, Ben Schmidt, Robert Hatch, Chris Warren, Ted Underwood, Dennis Tenen, and many others.
 
