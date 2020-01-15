@@ -24,6 +24,12 @@ Office Hours: Sorrells Library Den, Wednesdays 1:00-3:30
 ### Overview
 This course introduces students to core methods and readings in Digital Humanities. Students will read and engage with a wide array of sources, from foundational texts to fictional accounts to patents to legal briefings. In an effort to facilitate non-traditional collaborations, the course is open to (a.) humanities students curious about computational approaches to humanistic questions and (b.) students with technical, data-driven, or design backgrounds interested in contributing to humanistic knowledge. Please note: Freshmen are prohibited from registering for this course. Sophomores must obtain instructor permission.
 
+### What Students Can Expect From The Course
+By the end of the course, students should be able to:
+- Identify major currents of thought and scholarship in digital humanities.
+- Assess digital humanities research projects. 
+- Develop and complete research projects informed by readings and current methods in digital humanities.
+
 ### Guiding Concept
 “Digital Humanities” (DH) is a twenty-year-old term describing an academic community that sits between technology and the humanities. It’s neither the first nor only such community, and to a newcomer it can look imbalanced and occasionally ridiculous.
 
@@ -38,12 +44,6 @@ In reaching this understanding, you’ll learn (1) how to present your work to m
 These three goals could each fill a semester, or even a four-year degree. Though narrow in subject, this course will be disciplinarily broad and swift. You won’t come out the other side an expert, but you will end up thinking more flexibly about how the humanities and technology can contribute to one another.
 
 The most interesting problems can lead us down winding paths. Following them wherever they go requires courage, curiosity, a willingness to fail, and a passion that defies disciplinary boundaries. By taking this course, you commit yourself not to draw outside the lines, but to make up the lines. You will not leave this course understanding the breadth of digital humanities, but you will end up having experience being a digital humanist. 
-
-### What Students Can Expect From The Course
-By the end of the course, students should be able to:
-- Identify major currents of thought and scholarship in digital humanities.
-- Assess digital humanities research projects. 
-- Develop and complete research projects informed by readings and current methods in digital humanities.
 
 ### Course Procedures
 - Although expectations are high for students in this course, the course goals are achievable with consistent focus and work.    
