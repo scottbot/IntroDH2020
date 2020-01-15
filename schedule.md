@@ -48,7 +48,7 @@ Session Leader: ??
 - 
 
 ### Assignments
-- Come into class with some fun or interesting Ngram searches completed.
+1. Come into class with some fun or interesting Ngram searches completed.
 
 ### Class Activities
 - Go over Ngram searches.
