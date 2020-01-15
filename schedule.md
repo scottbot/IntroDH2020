@@ -208,3 +208,23 @@ Session Leader: ??
 - Tanner, S., Muñoz, T., & Ros, P. H. (2009). Measuring Mass Text Digitization Quality and Usefulness: Lessons Learned from Assessing the OCR Accuracy of the British Library’s 19th Century Online Newspaper Archive. *D-Lib Magazine*, *15*(7/8). [https://doi.org/10.1045/july2009-munoz](https://doi.org/10.1045/july2009-munoz)
 - Vincent, L. (2007). Google Book Search: Document Understanding on a Massive Scale. *Ninth International Conference on Document Analysis and Recognition (ICDAR 2007)*, *2*, 819–823. [https://doi.org/10.1109/ICDAR.2007.4377029](https://doi.org/10.1109/ICDAR.2007.4377029)
 
+## 2/19 - 10. Critiques of Google Books and Ngrams
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Duguid, P. (2007). Inheritance and loss? A brief survey of Google Books. *First Monday*, *12*(8).[ https://doi.org/10.5210/fm.v12i8.1972](https://doi.org/10.5210/fm.v12i8.1972)
+- James, R., & Weiss, A. (2012). An Assessment of Google Books’ Metadata. *Journal of Library Metadata*, *12*(1), 15–22.[ https://doi.org/10.1080/19386389.2012.652566](https://doi.org/10.1080/19386389.2012.652566)
+- Koplenig, A. (2017). The impact of lacking metadata for the measurement of cultural and linguistic change using the Google Ngram data sets—Reconstructing the composition of the German corpus in times of WWII. *Digital Scholarship in the Humanities*, *32*(1), 169–188.[ https://doi.org/10.1093/llc/fqv037](https://doi.org/10.1093/llc/fqv037)
+- Morse-Gagné, E. E. (2011). Culturomics: Statistical Traps Muddy the Data. *Science*, *332*(6025), 35.[ https://doi.org/10.1126/science.332.6025.35-b](https://doi.org/10.1126/science.332.6025.35-b)
+- Nunberg, G. (2009, August 29). Language Log » Google Books: A Metadata Train Wreck. *Language Log*.[ https://languagelog.ldc.upenn.edu/nll/?p=1701](https://languagelog.ldc.upenn.edu/nll/?p=1701)
+- Pechenick, E. A., Danforth, C. M., & Dodds, P. S. (2015). Characterizing the Google Books Corpus: Strong Limits to Inferences of Socio-Cultural and Linguistic Evolution. *PLOS ONE*, *10*(10), e0137041.[ https://doi.org/10.1371/journal.pone.0137041](https://doi.org/10.1371/journal.pone.0137041)
+- Pettit, M. (2016). Historical time in the age of big data: Cultural psychology, historical change, and the Google Books Ngram Viewer. *History of Psychology*, *19*(2), 141–153.[ https://doi.org/10.1037/hop0000023](https://doi.org/10.1037/hop0000023)
