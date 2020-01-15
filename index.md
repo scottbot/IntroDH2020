@@ -5,7 +5,7 @@ Carnegie Mellon University
 
 Spring 2020
 
-##Instructor
+## Instructor
 
 Scott B. Weingart
 
