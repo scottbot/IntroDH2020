@@ -6,6 +6,8 @@ permalink: /schedule/
 
 The below schedule is *tentative* and *evolving*. Reading option lists will be culled by the instructor and the session's student leader down to a cap of about 120 pages of reading due for Wednesday sessions, and a cap of about 50 pages for Friday sessions. Readings may be added that are not already in the list of reading options. Course topics may change with a few week's notice, and the reading list will be finalized at least a week in advance.
 
+*[note: some of the DH Debates and other citation links point to the wrong place. Will fix soon.]
+
 ## 1/15 - 0. Introduction
 ### Class Activities
 - Introduce the course.
@@ -246,6 +248,7 @@ Session Leader: ??
 1. 
 
 ### Class Activities
+- Project choice made
 - Seminar
 
 ### Reading Options
@@ -254,3 +257,336 @@ Session Leader: ??
 - Ford, P. (2015, June 11). What Is Code? If You Don’t Know, You Need to Read This. *Bloomberg*.[ http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 - Searle, S. J. (2004, August). *Brief History of Character Codes in North America, Europe, and East Asia*. TRON Web.[ http://tronweb.super-nova.co.jp/characcodehist.html](http://tronweb.super-nova.co.jp/characcodehist.html)
 - Zentgraf, D. (2015, April 27). What Every Programmer Absolutely, Positively Needs to Know About Encodings and Character Sets to Work With Text. *Kunststube*.[ http://kunststube.net/encoding/](http://kunststube.net/encoding/)
+
+## 2/28 - 13. History of Computing & Human Information Technology
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Bush, V. (1945, July). As We May Think. *The Atlantic Monthly*, *176*(1), 101–108.
+- Gaboury, J. (2013, April 9). A Queer History of Computing: Part Three. *Rhizome*.[ http://rhizome.org/editorial/2013/apr/09/queer-history-computing-part-three/](http://rhizome.org/editorial/2013/apr/09/queer-history-computing-part-three/)
+- Light, J. S. (1999). When Computers Were Women. *Technology and Culture*, *40*(3), 455–483.
+- Terras, M., & Nyhan, J. (2016). Father Busa’s Female Punch Card Operatives. In *Debates in the Digital Humanities 2016*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45](https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45)
+- Turing, A. M. (1950). Computing Machinery and Intelligence. *Mind*, *LIX*(236), 433–460.[ https://doi.org/10.1093/mind/LIX.236.433](https://doi.org/10.1093/mind/LIX.236.433)
+
+## 3/4 - 14. TEI / Encoding Digital Editions
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Bishara, H. (2019, November 26). *Official 3D Scans of Nefertiti Bust Are Released After Three-Year Battle*. Hyperallergic.[ https://hyperallergic.com/530400/official-3d-scans-of-nefertiti-bust-are-released-after-three-year-battle/](https://hyperallergic.com/530400/official-3d-scans-of-nefertiti-bust-are-released-after-three-year-battle/)
+- Bucholtz, M. (2000). The politics of transcription. *Journal of Pragmatics*, *32*(10), 1439–1465.
+- Conway, P. (2015). Digital transformations and the archival nature of surrogates. *Archival Science*, *15*(1), 51–69.[ https://doi.org/10.1007/s10502-014-9219-z](https://doi.org/10.1007/s10502-014-9219-z)
+- Jan Nikolai Nelles, & Nora Al-Badri. (2015, October). *Nefertiti Hack*.[ http://nefertitihack.alloversky.com/](http://nefertitihack.alloversky.com/)
+- Mustonen, A., & Pulkkinen, L. (1997). Television violence: A development of a coding scheme. *Journal of Broadcasting & Electronic Media*, *41*(2), 168–189.[ https://doi.org/10.1080/08838159709364399](https://doi.org/10.1080/08838159709364399)
+- Price, K. M. (2004). Electronic Scholarly Editions. In S. Schreibman, R. Siemens, & J. Unsworth (Eds.), *Companion to Digital Humanities (Blackwell Companions to Literature and Culture)* (Hardcover). Blackwell Publishing Professional.[ http://www.digitalhumanities.org/companion/](http://www.digitalhumanities.org/companion/)
+- Region of Peel Archives. (2017, May 31). Why don’t archivists digitize everything? *Archives @ PAMA*.[ https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/)
+- Ruth Jacobs, S. (2013). Digital Close Reading: TEI for Teaching Poetic Vocabularies. *The Journal of Interactive Technology and Pedagogy*.[ https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/](https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/)
+- Voon, C. (2016, February 19). *Artists Covertly Scan Bust of Nefertiti and Release the Data for Free Online*. Hyperallergic.[ https://hyperallergic.com/274635/artists-covertly-scan-bust-of-nefertiti-and-release-the-data-for-free-online/](https://hyperallergic.com/274635/artists-covertly-scan-bust-of-nefertiti-and-release-the-data-for-free-online/)
+- Weingart, S. B. (2015, November 1). Ghosts in the Machine. *The Scottbot Irregular*.[ http://scottbot.net/ghosts-in-the-machine/](http://scottbot.net/ghosts-in-the-machine/)
+- Weisberger, M., & 2019. (2019, November 25). Long-Hidden 3D Scan of Ancient Egyptian Nefertiti Bust Finally Revealed. *Livescience.Com*.[ https://www.livescience.com/nefertiti-bust-3d-scan-revealed.html](https://www.livescience.com/nefertiti-bust-3d-scan-revealed.html)
+
+## 3/6 - 15. No Class (Mini Finals)
+
+## 3/11 - 16. No Class (Spring Break)
+
+## 3/13 - 17. No Class (Spring Break)
+
+## 3/18 - 18. Penumbra
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. Sloan, R. (2016). *Mr. Penumbra’s 24-hour bookstore*. Farrar, Straus and Giroux.
+
+### Class Activities
+- Seminar
+
+## 3/20 - 19. Document-Term Matrices and Vector Space
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Garcia, E. (2016). *The Classic TF-IDF Vector Space Model*. miislita.com.
+- Gavin, M., Jennings, C., Kersey, L., & Pasanek, B. M. (2019). Spaces of Meaning: Conceptual History, Vector Semantics, and Close Reading. In *Debates in the Digital Humanities 2019*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4ce82b33-120f-423f-ba4c-40620913b305#ch21](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4ce82b33-120f-423f-ba4c-40620913b305#ch21)
+- Jurafsky, D., & Martin, J. H. (2019). Vector Semantics and Embeddings. In *Speech and Language Processing* (3rd ed.).[ https://web.stanford.edu/~jurafsky/slp3/](https://web.stanford.edu/~jurafsky/slp3/)
+- Turney, P. D., & Pantel, P. (2010). From Frequency to Meaning: Vector Space Models of Semantics. *Journal of Artificial Intelligence Research*, *37*, 141–188.[ https://doi.org/10.1613/jair.2934](https://doi.org/10.1613/jair.2934)
+- Underwood, T. (2015, June 4). Seven ways humanists are using computers to understand text. *The Stone and the Shell*.[ https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
+- Wikipedia Editors. (2018). Document-term matrix. In *Wikipedia*.[ https://en.wikipedia.org/w/index.php?title=Document-term_matrix&oldid=841158065](https://en.wikipedia.org/w/index.php?title=Document-term_matrix&oldid=841158065)
+
+## 3/25 - 20. Ngrams as Analysis
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Bentley, R. A., Acerbi, A., Ormerod, P., & Lampos, V. (2014). Books Average Previous Decade of Economic Misery. *PLoS ONE*, *9*(1), e83147.[ https://doi.org/10.1371/journal.pone.0083147](https://doi.org/10.1371/journal.pone.0083147)
+- Gibbs, F. W., & Cohen, D. J. (2011). A Conversation with Data: Prospecting Victorian Words and Ideas. *Victorian Studies*, *54*(1), 69–77.[ https://doi.org/10.2979/victorianstudies.54.1.69](https://doi.org/10.2979/victorianstudies.54.1.69)
+- Guldi, J. (2012). The History of Walking and the Digital Turn: Stride and Lounge in London, 1808–1851. *The Journal of Modern History*, *84*(1), 116–144.[ https://doi.org/10.1086/663350](https://doi.org/10.1086/663350)
+- Hitchcock, T. (2011, June 19). Historyonics: Culturomics, Big Data, Code Breakers and the Casaubon Delusion. *Historyonics*.[ http://historyonics.blogspot.com/2011/06/culturomics-big-data-code-breakers-and.html](http://historyonics.blogspot.com/2011/06/culturomics-big-data-code-breakers-and.html)
+- Hitchcock, T. (2014, November 9). Historyonics: Big Data, Small Data and Meaning. *Historyonics*.[ http://historyonics.blogspot.com/2014/11/big-data-small-data-and-meaning_9.html](http://historyonics.blogspot.com/2014/11/big-data-small-data-and-meaning_9.html)
+- Kesebir, P., & Kesebir, S. (2012). The Cultural Salience of Moral Character and Virtue Declined in Twentieth Century America. *SSRN ELibrary*.[ http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2120724](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2120724)
+- Kochan, D. J. (2011). While Effusive, "Conclusory" Is Still Quite Elusive: The Story of a Word, Iqbal, and a Perplexing Lexical Inquiry of Supreme Importance. *University of Pittsburgh Law Review*, *73*, forthcoming.
+- Kumar, N., & Sahu, M. (2011). The Evolution of Marketing History: A Peek Through Google Ngram Viewer. *Asian Journal of Management Research*, *1*(2), 415–426.
+- Nicholls, N. (2012). Long-term changes in the usage of climate and weather words. *Weather*, *67*(7), 171–174.[ https://doi.org/10.1002/wea.1924](https://doi.org/10.1002/wea.1924)
+- Nicholson, B. (2012). Counting Culture; or, How to Read Victorian Newspapers from a Distance. *Journal of Victorian Culture*, *17*(2), 238–246.[ https://doi.org/10.1080/13555502.2012.683331](https://doi.org/10.1080/13555502.2012.683331)
+- Rosenberg, D. (2013). Data Before the Fact. In *"Raw Data" Is an Oxymoron*. MITP.[ https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6462156](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6462156)
+- Twenge, J. M., Campbell, W. K., & Gentile, B. (2012a). Male and Female Pronoun Use in U.S. Books Reflects Women’s Status, 1900–2008. *Sex Roles*, 1–6.[ https://doi.org/10.1007/s11199-012-0194-7](https://doi.org/10.1007/s11199-012-0194-7)
+- Twenge, J. M., Campbell, W. K., & Gentile, B. (2012b). Increases in Individualistic Words and Phrases in American Books, 1960–2008. *PLoS ONE*, *7*(7), e40181.[ https://doi.org/10.1371/journal.pone.0040181](https://doi.org/10.1371/journal.pone.0040181)
+- Twenge, J. M., Campbell, W. K., & Gentile, B. (2012c). Changes in Pronoun Use in American Books and the Rise of Individualism, 1960-2008. *Journal of Cross-Cultural Psychology*.[ https://doi.org/10.1177/0022022112455100](https://doi.org/10.1177/0022022112455100)
+
+## 3/27 - 21. Cultural Analytics
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Barron, A. T. J., Huang, J., Spang, R. L., & DeDeo, S. (2017). Individuals, Institutions, and Innovation in the Debates of the French Revolution. *ArXiv:1710.06867 [Nlin, Physics:Physics, q-Bio]*.[ http://arxiv.org/abs/1710.06867](http://arxiv.org/abs/1710.06867)
+- Daniels, M. (2017, September). The words rappers use (and don’t use). *The Pudding*.[ https://pudding.cool/2017/09/hip-hop-words](https://pudding.cool/2017/09/hip-hop-words)
+- Goldstone, A., & Underwood, T. (2012, December 14). What can topic models of PMLA teach us about the history of literary scholarship? [Blog]. *ARCADE*.[ http://arcade.stanford.edu/blogs/what-can-topic-models-pmla-teach-us-about-history-literary-scholarship](http://arcade.stanford.edu/blogs/what-can-topic-models-pmla-teach-us-about-history-literary-scholarship)
+- Juola, P. (2013, August 20). How a Computer Program Helped Show J.K. Rowling write A Cuckoo’s Calling. *Scientific American*.[ https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/](https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/)
+- Klingenstein, S., Hitchcock, T., & DeDeo, S. (2014). The civilizing process in London’s Old Bailey. *Proceedings of the National Academy of Sciences*, *111*(26), 201405984.[ https://doi.org/10.1073/pnas.1405984111](https://doi.org/10.1073/pnas.1405984111)
+- Nguyen, D., Liakata, M., DeDeo, S., Eisenstein, J., Mimno, D., Tromble, R., & Winters, J. (2019). How we do things with words: Analyzing text as social and cultural data. *ArXiv:1907.01468 [Cs]*.[ http://arxiv.org/abs/1907.01468](http://arxiv.org/abs/1907.01468)
+- Rhody, L. M. (2012). Topic Modeling and Figurative Language. *Journal of Digital Humanities*, *2*(1).[ http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/)
+- Taylor, G., Jockers, M., & Nascimento, F. (2018). *"No Reasonable Person": The Rhetoric of Justice Scalia* (SSRN Scholarly Paper ID 3099157). Social Science Research Network.[ https://papers.ssrn.com/abstract=3099157](https://papers.ssrn.com/abstract=3099157)
+- Underwood, T. (2013, February 8). We don’t already understand the broad outlines of literary history. *The Stone and the Shell*.[ https://tedunderwood.com/2013/02/08/we-dont-already-know-the-broad-outlines-of-literary-history/](https://tedunderwood.com/2013/02/08/we-dont-already-know-the-broad-outlines-of-literary-history/)
+- Underwood, T., & Sellers, J. (2012). The Emergence of Literary Diction. *Journal of Digital Humanities*, *1*(2).
+- Wilkens, M. (2015, January 14). Literary Attention Lag. *Work Product*.[ https://mattwilkens.com/2015/01/13/literary-attention-lag/](https://mattwilkens.com/2015/01/13/literary-attention-lag/)
+
+## 4/1 - 22. Experimental Design
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Andersen, J. W. (1989). Unobtrusive measures. In P. Emmert & L. L. Barker (Eds.), *Measurement of communication behavior* (pp. 249–266). Longman.
+- Jick, T. D. (1979). Mixing Qualitative and Quantitative Methods: Triangulation in Action. *Administrative Science Quarterly*, *24*(4), 602–611.[ https://doi.org/10.2307/2392366](https://doi.org/10.2307/2392366)
+- Lincoln, M. D. (2015, March 21). Confabulation in the humanities. *Matthew Lincoln, PhD*.[ https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html](https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html)
+- Mullen, L. (2018, January 10). Isn’t it obvious? *Lincoln Mullen*.[ https://lincolnmullen.com/blog/isnt-it-obvious/](https://lincolnmullen.com/blog/isnt-it-obvious/)
+- Salganik, M. J. (2017). 4.4 Moving beyond simple experiments. In *Bit by Bit*. Princeton University Press.[ https://www.bitbybitbook.com/en/1st-ed/running-experiments/beyond-simple/](https://www.bitbybitbook.com/en/1st-ed/running-experiments/beyond-simple/)
+- Schmidt, B. M. (2016). Do Digital Humanists Need to Understand Algorithms? In *Debates in the Digital Humanities 2016*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45](https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45)
+
+## 4/3 - 23. Experimental Methods in Cultural Analytics
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Gibbs, F. W., & Owens, T. J. (2012). The Hermeneutics of Data and Historical Writing. In J. Dougherty & K. Nawrotzki (Eds.), *Writing History in the Digital Age* (web-book edition). University of Michigan Press.[ http://WritingHistory.trincoll.edu](http://WritingHistory.trincoll.edu)
+- Heuser, R., & Le-Khac, L. (2012). *A Quantitative Literary History of 2,958 Nineteenth-Century British Novels: The Semantic Cohort Method* (No. 4; Stanford Literary Lab Pamphlets). Stanford.[ https://litlab.stanford.edu/LiteraryLabPamphlet4.pdf](https://litlab.stanford.edu/LiteraryLabPamphlet4.pdf)
+- Hoover, D. L. (2016). Argument, Evidence, and the Limits of Digital Literary Studies. In *Debates in the Digital Humanities 2016*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45](https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45)
+- Long, H., & So, R. J. (2016). Literary Pattern Recognition: Modernism between Close Reading and Machine Learning. *Critical Inquiry*, *42*(2), 235–267.[ https://doi.org/10.1086/684353](https://doi.org/10.1086/684353)
+- Sculley, D., & Pasanek, B. M. (2008). Meaning and mining: The impact of implicit assumptions in data mining for the humanities. *Literary and Linguistic Computing*, *23*(4), 409–424.[ https://doi.org/10.1093/llc/fqn019](https://doi.org/10.1093/llc/fqn019)
+- Underwood, T. (2014). Theorizing Research Practices We Forgot to Theorize Twenty Years Ago. *Representations*, *127*(1), 64–72.[ https://doi.org/10.1525/rep.2014.127.1.64](https://doi.org/10.1525/rep.2014.127.1.64)
+- Underwood, T., Bamman, D., & Lee, S. (2018). The Transformation of Gender in English-Language Fiction. *Cultural Analytics*.[ https://hcommons.org/deposits/item/hc:18127/](https://hcommons.org/deposits/item/hc:18127/)
+- Weingart, S. B. (2017, July 26). Argument Clinic. *The Scottbot Irregular*.[ https://scottbot.net/argument-clinic/](https://scottbot.net/argument-clinic/)
+
+## 4/8 - 24. Genealogies of Distant Reading
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Busa, R. A. (2004). Foreword: Perspectives on the Digital Humanities. In S. Schreibman, R. Siemens, & J. Unsworth, *Companion to Digital Humanities (Blackwell Companions to Literature and Culture)* (Hardcover). Blackwell Publishing Professional.[ http://www.digitalhumanities.org/companion/](http://www.digitalhumanities.org/companion/)
+- Buurma, R. S., & Heffernan, L. (2018). Search and Replace: Josephine Miles and the Origins of Distant Reading. *Modernism / Modernity*, *3*(1).[ https://modernismmodernity.org/forums/posts/search-and-replace](https://modernismmodernity.org/forums/posts/search-and-replace)
+- Geoghegan, B. D. (2011). From Information Theory to French Theory: Jakobson, Lévi-Strauss, and the Cybernetic Apparatus. *Critical Inquiry*, *38*(1), 96–126.[ https://doi.org/10.1086/661645](https://doi.org/10.1086/661645)
+- Hockey, S. (2004). The History of Humanities Computing. In S. Schreibman, R. Siemens, & J. Unsworth, *A Companion to Digital Humanities* (Hardcover, pp. 1–19). Blackwell Publishing Professional.[ https://doi.org/10.1002/9780470999875.ch1](https://doi.org/10.1002/9780470999875.ch1)
+- Igarashi, Y. (2015). Statistical Analysis at the Birth of Close Reading. *New Literary History*, *46*(3), 485–504.[ https://doi.org/10.1353/nlh.2015.0023](https://doi.org/10.1353/nlh.2015.0023)
+- McEnery, T., & Hardie, A. (2013). The History of Corpus Linguistics. *The Oxford Handbook of the History of Linguistics*.[ https://doi.org/10.1093/oxfordhb/9780199585847.013.0034](https://doi.org/10.1093/oxfordhb/9780199585847.013.0034)
+- Milic, L. T. (1966). The Next Step. *Computers and the Humanities*, *1*(1), 3–6. JSTOR.
+- Mosteller, F., & Wallace, D. L. (1963). Inference in an Authorship Problem. *Journal of the American Statistical Association*, *58*(302), 275–309.[ https://doi.org/10.1080/01621459.1963.10500849](https://doi.org/10.1080/01621459.1963.10500849)
+- Underwood, T. (2016). Distant Reading and Recent Intellectual History. In *Debates in the Digital Humanities 2016*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled/section/3b96956c-aab2-4037-9894-dc4ff9aa1ec5#ch44](https://dhdebates.gc.cuny.edu/read/untitled/section/3b96956c-aab2-4037-9894-dc4ff9aa1ec5#ch44)
+- Underwood, T. (2017). A Genealogy of Distant Reading. *Digital Humanities Quarterly*, *11*(2).[ http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html)
+
+## 4/10 - 25. Cliometrics and Digital History
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Arguing with Digital History working group. (2017). *Digital History and Argument* (p. 30) [White Paper]. George Mason University.[ https://rrchnm.org/argument-white-paper/](https://rrchnm.org/argument-white-paper/)
+- Blevins, C. (2016). Digital History’s Perpetual Future Tense. In M. K. Gold & L. F. Klein (Eds.), *Debates in the Digital Humanities: Vol. Debates in the Digital Humanities 2016*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled/section/4555da10-0561-42c1-9e34-112f0695f523](https://dhdebates.gc.cuny.edu/read/untitled/section/4555da10-0561-42c1-9e34-112f0695f523)
+- Braudel, F., & Wallerstein, I. (2009). History and the Social Sciences: The Longue Durée. *Review (Fernand Braudel Center)*, *32*(2), 171–203.
+- Gibbs, F. W. (2016). New Forms of History: Critiquing Data and Its Representations. *The American Historian*.[ https://www.oah.org/tah/issues/2016/february/new-forms-of-history-critiquing-data-and-its-representations/](https://www.oah.org/tah/issues/2016/february/new-forms-of-history-critiquing-data-and-its-representations/)
+- Goldin, C. (1995). Cliometrics and the Nobel. *The Journal of Economic Perspectives*, *9*(2), 191–208.
+- Hedley, A., & Kooistra, L. J. (2018). Prototyping Personography for The Yellow Nineties Online Queering and Querying History in the Digital Age. In J. Wernimont & E. Losh, *Bodies of Information*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/8e224811-5779-4444-9dbf-011f71cb1d4b#ch10](https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/8e224811-5779-4444-9dbf-011f71cb1d4b#ch10)
+- Leon, S. (2016, March 7). Returning Women to the History of Digital History. *[Bracket]*.[ https://www.6floors.org/bracket/2016/03/07/returning-women-to-the-history-of-digital-history/](https://www.6floors.org/bracket/2016/03/07/returning-women-to-the-history-of-digital-history/)
+- Leon, S. (2018). Complicating a "Great Man" Narrative of Digital History in the United States. In J. Wernimont & E. Losh, *Bodies of Information*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/8e224811-5779-4444-9dbf-011f71cb1d4b#ch10](https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/8e224811-5779-4444-9dbf-011f71cb1d4b#ch10)
+- Leon, S. (2019, November 24). The Peril and Promise of Historians as Data Creators: Perspective, Structure, and the Problem of Representation. *[Bracket]*.[ http://www.6floors.org/bracket/2019/11/24/the-peril-and-promise-of-historians-as-data-creators-perspective-structure-and-the-problem-of-representation/](http://www.6floors.org/bracket/2019/11/24/the-peril-and-promise-of-historians-as-data-creators-perspective-structure-and-the-problem-of-representation/)
+- Merry, M. (2015). *Designing Databases for Historical Research: Contents*. PORT School of Advanced Study University of London.[ https://port.sas.ac.uk/mod/book/view.php?id=75&chapterid=124](https://port.sas.ac.uk/mod/book/view.php?id=75&chapterid=124)
+- Milligan, I. (2012). Mining the ‘Internet Graveyard’: Rethinking the Historians’ Toolkit. *Journal of the Canadian Historical Association / Revue de La Société Historique Du Canada*, *23*(2), 21–64.[ https://doi.org/10.7202/1015788ar](https://doi.org/10.7202/1015788ar)
+- Roberston, S. (2014, May 23). The Differences between Digital History and Digital Humanities. *Dr Stephen Robertson*.[ http://drstephenrobertson.com/blog-post/the-differences-between-digital-history-and-digital-humanities/](http://drstephenrobertson.com/blog-post/the-differences-between-digital-history-and-digital-humanities/)
+- Rosenzweig, R. (2003). Scarcity or Abundance? Preserving the Past in a Digital Era. *The American Historical Review*, *108*(3), 735–762.[ https://doi.org/10.1086/ahr/108.3.735](https://doi.org/10.1086/ahr/108.3.735)
+- Weingart, S. B. (2016, May 2). "Digital History" Can Never Be New. *The Scottbot Irregular*.[ http://scottbot.net/digital-history-can-never-be-new/](http://scottbot.net/digital-history-can-never-be-new/)
+
+## 4/15 - 26. Digital Source Criticism
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Bode, K. (2017a). ‘The Equivalence of "Close" and “Distant” Reading; Or, Toward a New Object for Data-Rich Literary History. *Modern Language Quarterly*, *78*(1).
+- Bode, K. (2017b, June 28). A response to some responses …. *Katherine Bode*.[ https://katherinebode.wordpress.com/a-response-to-some-responses/](https://katherinebode.wordpress.com/a-response-to-some-responses/)
+- Bode, K. (2019). Why you can’t model away bias. *Modern Language Quarterly*, *80*(3).
+- Foreman, P. G. (2015). The Colored Conventions Project and the Changing Same. *Commonplace*, *16*(1).[ http://commonplace.online/article/the-colored-conventions-project-and-the-changing-same/](http://commonplace.online/article/the-colored-conventions-project-and-the-changing-same/)
+- Foreman, P. G. (2020, January 10). *Advanced Search—Colored Conventions*. Colored Conventions Project Digital Records.[ https://omeka.coloredconventions.org/find/advanced](https://omeka.coloredconventions.org/find/advanced)
+- Foreman, P. G., Patterson, S., & Casey, J. (2018). *Introduction to the Colored Conventions Movement: An overview of nineteenth-century Black political history and organizing*. Colored Conventions Project.[ https://coloredconventions.org/introduction-movement/](https://coloredconventions.org/introduction-movement/)
+- Gallon, K. (2016). Making a Case for the Black Digital Humanities. In M. K. Gold & L. F. Klein (Eds.), *Debates in the Digital Humanities: Vol. Debates in the Digital Humanities 2016*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled/section/4555da10-0561-42c1-9e34-112f0695f523](https://dhdebates.gc.cuny.edu/read/untitled/section/4555da10-0561-42c1-9e34-112f0695f523)
+- Johnson, J. M. (2018). Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads. *Social Text*, *36*(4 (137)), 57–79.[ https://doi.org/10.1215/01642472-7145658](https://doi.org/10.1215/01642472-7145658)
+- Klein, L. F. (2013). The Image of Absence: Archival Silence, Data Visualization, and James Hemings. *American Literature*, *85*(4), 661–688.[ https://doi.org/10.1215/00029831-2367310](https://doi.org/10.1215/00029831-2367310)
+- Lage, A. (2018, January 18). Google’s "Arts & Culture" Is Being Called Racist, But The Problem Goes Beyond The Actual App. *Bustle*.[ https://www.bustle.com/p/googles-arts-culture-app-is-being-called-racist-but-the-problem-goes-beyond-the-actual-app-7929384](https://www.bustle.com/p/googles-arts-culture-app-is-being-called-racist-but-the-problem-goes-beyond-the-actual-app-7929384)
+- Mandell, L. C. (2015). Gendering Digital Literary History. In *A New Companion to Digital Humanities* (pp. 511–523). John Wiley & Sons, Ltd.[ https://doi.org/10.1002/9781118680605.ch35](https://doi.org/10.1002/9781118680605.ch35)
+- McGrath, L. B. (2019, January 21). Comping White. *Los Angeles Review of Books*.[ https://lareviewofbooks.org/article/comping-white/](https://lareviewofbooks.org/article/comping-white/)
+- Milligan, I. (2013). Illusionary Order: Online Databases, Optical Character Recognition, and Canadian History, 1997–2010. *The Canadian Historical Review*, *94*(4), 540–569.
+- Milligan, I. (2019, August). Historians’ archival research looks quite different in the digital age. *The Conversation*.[ http://theconversation.com/historians-archival-research-looks-quite-different-in-the-digital-age-121096](http://theconversation.com/historians-archival-research-looks-quite-different-in-the-digital-age-121096)
+- Noble, S. U. (2019). Toward a Critical Black Digital Humanities. In M. K. Gold & L. F. Klein, *Debates in the Digital Humanities 2019*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4ce82b33-120f-423f-ba4c-40620913b305#ch21](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4ce82b33-120f-423f-ba4c-40620913b305#ch21)
+- Onuoha, M. (2016, February 10). The Point of Collection. *Data & Society: Points*.[ https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa](https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa)
+- Onuoha, M. (2018). *An overview and exploration of the concept of missing datasets.*[ https://github.com/MimiOnuoha/missing-datasets](https://github.com/MimiOnuoha/missing-datasets) (Original work published 2016)
+- Owens, T. (2019). Digital Sources & Digital Archives: The Evidentiary Basis of Digital History. In D. Staley (Ed.), *Companion to Digital History*. Wiley-Blackwell.[ https://doi.org/10.31235/osf.io/t5rdy](https://doi.org/10.31235/osf.io/t5rdy)
+- Putnam, L. (2016). The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast. *The American Historical Review*, *121*(2), 377–402.[ https://doi.org/10.1093/ahr/121.2.377](https://doi.org/10.1093/ahr/121.2.377)
+- Rawson, K., & Muñoz, T. (2016). Against Cleaning. *Curating Menus*.[ http://www.curatingmenus.org/articles/against-cleaning/](http://www.curatingmenus.org/articles/against-cleaning/)
+- Risam, R. (2015). Beyond the Margins: Intersectionality and the Digital Humanities. *Digital Humanities Quarterly*, *9*(2).[ http://www.digitalhumanities.org/dhq/vol/9/2/000208/000208.html](http://www.digitalhumanities.org/dhq/vol/9/2/000208/000208.html)
+- Weingart, S. B. (2015, March 29). Not Enough Perspectives, Pt. 1. *The Scottbot Irregular*.[ http://scottbot.net/not-enough-perspectives-pt-1/](http://scottbot.net/not-enough-perspectives-pt-1/)
+
+## 4/17 - 27. No Class (Carnival)
+
+## 4/22 - 28. Critique of Cultural Analytics
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. Da, N. Z. (2019). The Computational Case against Computational Literary Studies. *Critical Inquiry*, *45*(3), 601–639.[ https://doi.org/10.1086/702594](https://doi.org/10.1086/702594)
+
+### Class Activities
+- Seminar
+
+### Additional Reading Options
+- Allington, D., Brouillette, S., & Golumbia, D. (2016, May 1). Neoliberal Tools (and Archives): A Political History of Digital Humanities. *Los Angeles Review of Books*.[ https://lareviewofbooks.org/article/neoliberal-tools-archives-political-history-digital-humanities/](https://lareviewofbooks.org/article/neoliberal-tools-archives-political-history-digital-humanities/)
+- Laite, J. (2020). The Emmet’s Inch: Small History in a Digital Age. *Journal of Social History*, 1–27.[ https://doi.org/10.1093/jsh/shy118](https://doi.org/10.1093/jsh/shy118)
+- Marche, S. (2012, October). Literature Is not Data: Against Digital Humanities. *Los Angeles Review of Books*.[ https://lareviewofbooks.org/article/literature-is-not-data-against-digital-humanities/](https://lareviewofbooks.org/article/literature-is-not-data-against-digital-humanities/)
+
+## 4/24 - 29. Limits of Numbers
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- D’Ignazio, C., & Klein, L. (2018). Chapter Five: The Numbers Don’t Speak for Themselves. In *Data Feminism*. MIT Press.[ https://bookbook.pubpub.org/pub/6ui5n4vo](https://bookbook.pubpub.org/pub/6ui5n4vo)
+- Eubanks, V. (2018). *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor*. St. Martin’s Press.
+- Hall, D. (2017, September 5). The Age of the Algorithm. *99% Invisible*.[ https://99percentinvisible.org/episode/the-age-of-the-algorithm/](https://99percentinvisible.org/episode/the-age-of-the-algorithm/)
+- Posner, M. (2015, June 25). *Humanities Data: A Necessary Contradiction* [Miriam Posner’s Blog].[ http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)
+
+## 4/29 - 30. Data Visualization
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Beniger, J. R., & Robyn, D. L. (1978). Quantitative Graphics in Statistics: A Brief History. *The American Statistician*, *32*(1), 1–11.[ https://doi.org/10.1080/00031305.1978.10479235](https://doi.org/10.1080/00031305.1978.10479235)
+- Bond, S. (2017, October 20). How Is Digital Mapping Changing The Way We Visualize Racism and Segregation? *Forbes*.[ https://www.forbes.com/sites/drsarahbond/2017/10/20/how-is-digital-mapping-changing-the-way-we-visualize-racism-and-segregation/](https://www.forbes.com/sites/drsarahbond/2017/10/20/how-is-digital-mapping-changing-the-way-we-visualize-racism-and-segregation/)
+- Daston, L. J. (2008). On Scientific Observation. *Isis*, *99*(1), 97–110.[ https://doi.org/10.1086/587535](https://doi.org/10.1086/587535)
+- D’Ignazio, C., & Klein, L. (2016). Feminist Data Visualization. *Proceedings from the Workshop on Visualization for the Digital Humanities*. The Workshop on Visualization for the Digital Humanities at IEEE VIS Conference 2016, Baltimore, MD.
+- Drucker, J. (2011). Humanities Approaches to Graphical Display. *Digital Humanities Quarterly*, *5*(001).[ http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html)
+- Hepworth, K., & Church, C. (2019). Racism in the Machine: Visualization Ethics in Digital Humanities Projects. *Digital Humanities Quarterly*, *012*(4).
+- Jessop, M. (2008). Digital visualization as a scholarly activity. *Literary and Linguistic Computing*, *23*(3), 281–293.[ https://doi.org/10.1093/llc/fqn016](https://doi.org/10.1093/llc/fqn016)
+- Knowles, A. K., Westerveld, L., & Strom, L. (2015). Inductive Visualization: A Humanistic Alternative to GIS. *GeoHumanities*, *1*(2), 233–265.[ https://doi.org/10.1080/2373566X.2015.1108831](https://doi.org/10.1080/2373566X.2015.1108831)
+- Spence, I. (2006). William Playfair and the psychology of graphs. *JSM Proceedings*. American Statistical Association, Alexandria.
+- Wickham, H., Cook, D., Hofmann, H., & Buja, A. (2010). Graphical inference for infovis. *IEEE Transactions on Visualization and Computer Graphics*, *16*(6), 973–979.[ https://doi.org/10.1109/TVCG.2010.161](https://doi.org/10.1109/TVCG.2010.161)
+
+## 5/1 - 31. Final Project Presentations
+### Assignments
+1. Finish project.
+
+### Class Activities
+- Present projects
