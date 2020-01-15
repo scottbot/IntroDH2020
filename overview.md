@@ -79,6 +79,7 @@ About a third of the way through the semester, you will be responsible for a pro
 Following the project proposals, class members will choose one of the proposed projects to develop collaboratively over the remainder of the semester. Final projects may be in the form of a website, a dataset, a film, a podcast, an essay, any combination of the above, or (with prior permission) something else entirely. Projects may reuse all content from the blog reports. Projects will require an "authorship statement" appendix, describing the contributions of each student.
 
 ### Grading
+
 | Assignment | Percent of Grade |
 | ----------- | ----------- |
 | Leading Class / Blog Reports | 25% |
