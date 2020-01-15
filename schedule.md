@@ -228,3 +228,29 @@ Session Leader: ??
 - Nunberg, G. (2009, August 29). Language Log » Google Books: A Metadata Train Wreck. *Language Log*.[ https://languagelog.ldc.upenn.edu/nll/?p=1701](https://languagelog.ldc.upenn.edu/nll/?p=1701)
 - Pechenick, E. A., Danforth, C. M., & Dodds, P. S. (2015). Characterizing the Google Books Corpus: Strong Limits to Inferences of Socio-Cultural and Linguistic Evolution. *PLOS ONE*, *10*(10), e0137041.[ https://doi.org/10.1371/journal.pone.0137041](https://doi.org/10.1371/journal.pone.0137041)
 - Pettit, M. (2016). Historical time in the age of big data: Cultural psychology, historical change, and the Google Books Ngram Viewer. *History of Psychology*, *19*(2), 141–153.[ https://doi.org/10.1037/hop0000023](https://doi.org/10.1037/hop0000023)
+
+## 2/21 - 11. Project Proposals and Presentations
+### Assignments
+1. Finish individual project proposals.
+
+### Class Activities
+- Present projects.
+
+## 2/26 - 12. How Computers and Text Work
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Burrington, I. (2016). *Networks of New York: An Illustrated Field Guide to Urban Internet Infrastructure* (Ill edition). Melville House.
+- Chandra, V. (2014, September 5). The Beauty of Code. *The Paris Review*.[ https://www.theparisreview.org/blog/2014/09/05/the-beauty-of-code/](https://www.theparisreview.org/blog/2014/09/05/the-beauty-of-code/)
+- Ford, P. (2015, June 11). What Is Code? If You Don’t Know, You Need to Read This. *Bloomberg*.[ http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+- Searle, S. J. (2004, August). *Brief History of Character Codes in North America, Europe, and East Asia*. TRON Web.[ http://tronweb.super-nova.co.jp/characcodehist.html](http://tronweb.super-nova.co.jp/characcodehist.html)
+- Zentgraf, D. (2015, April 27). What Every Programmer Absolutely, Positively Needs to Know About Encodings and Character Sets to Work With Text. *Kunststube*.[ http://kunststube.net/encoding/](http://kunststube.net/encoding/)
