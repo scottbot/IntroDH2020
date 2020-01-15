@@ -23,7 +23,7 @@ The below schedule is *tentative* and *evolving*. Reading option lists will be c
 - Learn how to blog.
 - Set up Zotero.
 
-## 1/22 - 2. Course Planning
+## 1/22 - 2. Conducting a Deep Dive
 Session Leader: ??
 
 ### Leader Notes
