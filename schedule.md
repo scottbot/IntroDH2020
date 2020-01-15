@@ -6,18 +6,14 @@ permalink: /schedule/
 
 The below schedule is *tentative*. Reading lists will be culled by the instructor and the session's student leader down to a cap of about 120 pages of reading due for Wednesday sessions, and a cap of about 50 pages for Friday sessions. Course topics may change with a few week's notice, and the reading list will be finalized at least a week in advance.
 
-## 0. Introduction
-1/15/2020
-
+## 1/15 - 0. Introduction
 ### Class Activities
 - Introduce the course.
 - Explain the syllabus.
 - Brainstorm additional topics.
 - Introduce classmates.
 
-## 1. Course Planning
-1/17/2020
-
+## 1/17 - 1. Course Planning
 ### Class Activities
 - Introduce each other.
 - Course planning.
@@ -25,9 +21,7 @@ The below schedule is *tentative*. Reading lists will be culled by the instructo
 - Learn how to blog.
 - Set up Zotero.
 
-## 2. Course Planning
-1/22/2020
-
+## 1/22 - 2. Course Planning
 Session Leader: ??
 
 ### Leader Notes
