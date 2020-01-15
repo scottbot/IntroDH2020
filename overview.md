@@ -93,7 +93,7 @@ Following the project proposals, class members will choose one of the proposed p
 You are required to [CMU's Standards of Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html). In short: don't cheat. If you need help, see the instructor.
 
 ### Disability Accommodations
-If you have a disability, I encourage you to discuss your accommodations and needs with me as early in the semester as possible. I will work with you to ensure that accommodations are provided as appropriate. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, I encourage you to contact them at access@andrew.cmu.edu.
+If you have a disability, I encourage you to discuss your accommodations and needs with me as early in the semester as possible. I will work with you to ensure that accommodations are provided as appropriate. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, I encourage you to contact them at [access@andrew.cmu.edu](access@andrew.cmu.edu).
 
 ### Be Kind To Yourself
 Don't work too hard. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, getting enough sleep, and taking time to relax when necessary.
