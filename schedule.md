@@ -64,3 +64,22 @@ Session Leader: ??
 - The Google Ngram Viewer Team. (2013). *Google Ngram Viewer*. Google Books. [https://books.google.com/ngrams/info](https://books.google.com/ngrams/info)
 - Wikipedia Editors. (2020). Google Books. In *Wikipedia*. [https://en.wikipedia.org/w/index.php?title=Google_Books&oldid=934521616](https://en.wikipedia.org/w/index.php?title=Google_Books&oldid=934521616)
 - Zimmer, B. (2012, October 18). Bigger, Better Google Ngrams: Brace Yourself for the Power of Grammar. *The Atlantic*. [https://www.theatlantic.com/technology/archive/2012/10/bigger-better-google-ngrams-brace-yourself-for-the-power-of-grammar/263487/](https://www.theatlantic.com/technology/archive/2012/10/bigger-better-google-ngrams-brace-yourself-for-the-power-of-grammar/263487/)
+
+## 1/29 - 4. United States Is/Are and American History
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Fiske, J. (1898). *Civil Government in the United States Considered with Some Reference to Its Origins.* [http://www.gutenberg.org/ebooks/11276](http://www.gutenberg.org/ebooks/11276)
+- Gildersleeve, B. L. (1915). *A Southerner in the Peloponnesian War. In The Creed Of The Old South, 1865-1915*. The Johns Hopkins Press. [https://www.gutenberg.org/files/24281/24281-h/24281-h.htm](https://www.gutenberg.org/files/24281/24281-h/24281-h.htm)
+- Santin, B., Murphy, D., & Wilkens, M. (2016). Is or Are: The “United States” in Nineteenth-Century Print Culture. *American Quarterly*, *68*(1), 101–124. [https://doi.org/10.1353/aq.2016.0011](https://doi.org/10.1353/aq.2016.0011)
+- Silber, N. (2016). Reunion and Reconciliation, Reviewed and Reconsidered. *Journal of American History*, *103*(1), 59–83. [https://doi.org/10.1093/jahist/jaw008](https://doi.org/10.1093/jahist/jaw008)
+- Wilkens, M. (2014, September 1). Singularization Corpus Data. *Work Product*. [https://mattwilkens.com/data/singularization-corpus-listing/](https://mattwilkens.com/data/singularization-corpus-listing/)
