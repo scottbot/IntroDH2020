@@ -119,6 +119,7 @@ Session Leader: ??
 1. 
 
 ### Class Activities
+- Learn Voyant Tools.
 - Seminar
 
 ### Reading Options
@@ -132,3 +133,27 @@ Session Leader: ??
 - Schmidt, B. M. (2020a). *bookworm: HathiTrust*. HathiTrust Digital Library. [https://bookworm.htrc.illinois.edu/develop/](https://bookworm.htrc.illinois.edu/develop/)
 - Schmidt, B. M. (2020b). *bookworm: Open Library*. Bookworm. [http://benschmidt.org/OL/](http://benschmidt.org/OL/)
 - Sinclair, S., & Rockwell, G. (2020). *Voyant Tools*. Voyant Tools. [https://voyant-tools.org/](https://voyant-tools.org/)
+
+## 2/7 - 7. Digital Labor
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Chalmers, M. K., & Edwards, P. N. (2017). Producing “one vast index”: Google Book Search as an algorithmic system. *Big Data & Society*, *4*(2), 2053951717716950. [https://doi.org/10.1177/2053951717716950](https://doi.org/10.1177/2053951717716950)
+- Goldsmith, K. (2013, December 4). *The Artful Accidents of Google Books*. [https://www.newyorker.com/books/page-turner/the-artful-accidents-of-google-books](https://www.newyorker.com/books/page-turner/the-artful-accidents-of-google-books)
+- Irani, L. (2015a). Difference and Dependence among Digital Workers: The Case of Amazon Mechanical Turk. *South Atlantic Quarterly*, *114*, 225–234. [https://doi.org/10.1215/00382876-2831665](https://doi.org/10.1215/00382876-2831665)
+- Irani, L. (2015b, January 15). Justice for “Data Janitors.” *Public Books*. [https://www.publicbooks.org/justice-for-data-janitors/](https://www.publicbooks.org/justice-for-data-janitors/)
+- Lecher, C. (2017, April 16). A new documentary goes inside the bleak world of content moderation. *The Verge*. [https://www.theverge.com/2017/4/16/15305562/the-moderators-documentary](https://www.theverge.com/2017/4/16/15305562/the-moderators-documentary)
+- Mallonee, L. (2019, February 7). Is That a Hand? Glitches Reveal Google Books’ Human Scanners. *Wired*. [https://www.wired.com/story/google-books-glitches-gallery/](https://www.wired.com/story/google-books-glitches-gallery/)
+- Newton, C. (2019, February 25). The secret lives of Facebook moderators in America. *The Verge*. [https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona)
+- Wilson, A. N. (2012). *ScanOps*. [http://www.andrewnormanwilson.com/ScanOps.html](http://www.andrewnormanwilson.com/ScanOps.html)
+- Wilson, K. (2018). *The Art of Google Books*. [https://theartofgooglebooks.tumblr.com/?og=1](https://theartofgooglebooks.tumblr.com/?og=1)
+- Zeffiro, A. (2019). Digitizing Labor in the Google Books Project. In S. Ross & A. Pilsch, *Humans at Work in the Digital Age: Forms of Digital Textual Labor*. Routledge. [https://doi.org/10.4324/9780429244599](https://doi.org/10.4324/9780429244599)
