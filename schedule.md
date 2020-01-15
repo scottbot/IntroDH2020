@@ -109,3 +109,26 @@ Session Leader: ??
 - University of Michigan and Google, Inc. (2005). *UM-Google Cooperative Agreement*. [https://www.lib.umich.edu/files/services/mdp/um-google-cooperative-agreement.pdf](https://www.lib.umich.edu/files/services/mdp/um-google-cooperative-agreement.pdf)
 - Wikipedia Editors. (2019). Million Book Project. In *Wikipedia*. [https://en.wikipedia.org/w/index.php?title=Million_Book_Project&oldid=932790379](https://en.wikipedia.org/w/index.php?title=Million_Book_Project&oldid=932790379)
 
+## 2/5 - 6. Ngram Interfaces and their Affordances
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Davies, M. (2020). *BYU corpora*. Corpus.Byu.Edu. [https://corpus.byu.edu/overview.asp](https://corpus.byu.edu/overview.asp)
+- Fraas, M., & Schmidt, B. M. (2015, January 18). The Language of the State of the Union. *The Atlantic*. [https://www.theatlantic.com/politics/archive/2015/01/the-language-of-the-state-of-the-union/384575/](https://www.theatlantic.com/politics/archive/2015/01/the-language-of-the-state-of-the-union/384575/)
+- Gaver, W. W. (1991). Technology affordances. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems Reaching through Technology - CHI ’91*, 79–84. [https://doi.org/10.1145/108844.108856](https://doi.org/10.1145/108844.108856)
+- King, L., & Leonard, P. (2020). *Robots Reading Vogue: N-gram Search*. Digital Humanities at Yale University. [http://bookworm.library.yale.edu/](http://bookworm.library.yale.edu/)
+- Peachnote. (2018). *Peachnote Music Search*. Peachnote. [http://www.peachnote.com](http://www.peachnote.com)
+- Schmidt, B. M. (2015, February). *Gendered Language in Teaching Evaluations*. Gender and Teaching Reviews. [http://benschmidt.org/profGender/](http://benschmidt.org/profGender/)
+- Schmidt, B. M. (2018, November 6). *Bookworm*. Culturomics. [http://web.archive.org/web/20181106205507/http://bookworm.culturomics.org/](http://web.archive.org/web/20181106205507/http://bookworm.culturomics.org/)
+- Schmidt, B. M. (2020a). *bookworm: HathiTrust*. HathiTrust Digital Library. [https://bookworm.htrc.illinois.edu/develop/](https://bookworm.htrc.illinois.edu/develop/)
+- Schmidt, B. M. (2020b). *bookworm: Open Library*. Bookworm. [http://benschmidt.org/OL/](http://benschmidt.org/OL/)
+- Sinclair, S., & Rockwell, G. (2020). *Voyant Tools*. Voyant Tools. [https://voyant-tools.org/](https://voyant-tools.org/)
