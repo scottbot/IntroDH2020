@@ -6,7 +6,7 @@ permalink: /schedule/
 
 The below schedule is *tentative* and *evolving*. Reading option lists will be culled by the instructor and the session's student leader down to a cap of about 120 pages of reading due for Wednesday sessions, and a cap of about 50 pages for Friday sessions. Readings may be added that are not already in the list of reading options. Course topics may change with a few week's notice, and the reading list will be finalized at least a week in advance.
 
-*[note: some of the DH Debates and other citation links point to the wrong place. Will fix soon.]
+*[note: some of the DH Debates and other citation links point to the wrong place. Will fix soon.]*
 
 ## 1/15 - 0. Introduction
 ### Class Activities
