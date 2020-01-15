@@ -35,11 +35,8 @@ Session Leader: ??
 ### Class Activities
 - Seminar
 
-### Reading Options
-- Krause, H. (2017, March 27). Data Biographies: Getting to Know Your Data. *Global Investigative Journalism Network*. [https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)
-- Thwaites, T. (2011). *The Toaster Project: Or a Heroic Attempt to Build a Simple Electric Appliance from Scratch*. Princeton Architectural Press.
+### Additional Reading Options
 - Weingart, S. B. (2015, July 12). Down the Rabbit Hole. *The Scottbot Irregular*. [http://scottbot.net/down-the-rabbit-hole/](http://scottbot.net/down-the-rabbit-hole/) 
-- Weingart, S. B. (2019, February 22). The Route of a Text Message, a Love Story. *Vice*. [https://www.vice.com/en_us/article/kzdn8n/the-route-of-a-text-message-a-love-story](https://www.vice.com/en_us/article/kzdn8n/the-route-of-a-text-message-a-love-story)
 
 ## 1/24 - 3. Google Books and Culturomics
 Session Leader: ??
@@ -186,4 +183,28 @@ Session Leader: ??
 - Summary: Authors Guild v. Google Inc., No. 13-4829–cv (Second Circuit October 16, 2015). [https://www.copyright.gov/fair-use/summaries/authorsguild-google-2dcir2015.pdf](https://www.copyright.gov/fair-use/summaries/authorsguild-google-2dcir2015.pdf)
 - Wikipedia Editors. (2019a). *Authors Guild, Inc. V. Google, Inc*. In *Wikipedia*. [https://en.wikipedia.org/w/index.php?title=Authors_Guild,_Inc._v._Google,_Inc.&oldid=920014592](https://en.wikipedia.org/w/index.php?title=Authors_Guild,_Inc._v._Google,_Inc.&oldid=920014592)
 - Wikipedia Editors. (2019b). *Authors Guild, Inc. V. HathiTrust*. In Wikipedia. [https://en.wikipedia.org/w/index.php?title=Authors_Guild,_Inc._v._HathiTrust&oldid=921770897](https://en.wikipedia.org/w/index.php?title=Authors_Guild,_Inc._v._HathiTrust&oldid=921770897)
+
+## 2/14 - 9. Technologies of Book Scanning
+Session Leader: ??
+
+### Leader Notes
+- 
+
+### Assignments
+1. 
+
+### Class Activities
+- Possible field trip to scanning facility
+- Seminar
+
+### Reading Options
+- Conway, P. (2013). Preserving Imperfection: Assessing the Incidence of Digital Imaging Error in HathiTrust. *Preservation, Digital Technology & Culture*, *42*(1), 17–30. [https://doi.org/10.1515/pdtc-2013-0003](https://doi.org/10.1515/pdtc-2013-0003)
+- Huang, T. S. (1974). Digital transmission of halftone pictures. *Computer Graphics and Image Processing*, *3*(3), 195–202. [https://doi.org/10.1016/0146-664X(74)90013-6](https://doi.org/10.1016/0146-664X(74)90013-6)
+- Langley, A., & Bloomberg, D. S. (2007). Google Books: Making the public domain universally accessible. (Document Recognition and Retrieval XIV*, *6500*, 65000H. [https://doi.org/10.1117/12.710609](https://doi.org/10.1117/12.710609)
+- Le Bourgeois, F., Trinh, E., Allier, B., Eglin, V., & Emptoz, H. (2004). Document images analysis solutions for digital libraries. *First International Workshop on Document Image Analysis for Libraries, 2004*. 2–24. [https://doi.org/10.1109/DIAL.2004.1263233](https://doi.org/10.1109/DIAL.2004.1263233)
+- Lefevere, F.-M., & Saric, M. (2008). *De-warping of scanned images* (United States Patent No. US7463772B1). [https://patents.google.com/patent/US7463772B1/en](https://patents.google.com/patent/US7463772B1/en)
+- Lefevere, F.-M., & Saric, M. (2009). *Detection of grooves in scanned images* (United States Patent No. US7508978B1). [https://patents.google.com/patent/US7508978B1/en](https://patents.google.com/patent/US7508978B1/en)
+- Smith, D. A., & Cordell, R. (2018). *Report: A Research Agenda for Historical and Multilingual Optical Character Recognition – Historical and Multilingual OCR. Northeastern University*. [https://ocr.northeastern.edu/report/](https://ocr.northeastern.edu/report/)
+- Tanner, S., Muñoz, T., & Ros, P. H. (2009). Measuring Mass Text Digitization Quality and Usefulness: Lessons Learned from Assessing the OCR Accuracy of the British Library’s 19th Century Online Newspaper Archive. *D-Lib Magazine*, *15*(7/8). [https://doi.org/10.1045/july2009-munoz](https://doi.org/10.1045/july2009-munoz)
+- Vincent, L. (2007). Google Book Search: Document Understanding on a Massive Scale. *Ninth International Conference on Document Analysis and Recognition (ICDAR 2007)*, *2*, 819–823. [https://doi.org/10.1109/ICDAR.2007.4377029](https://doi.org/10.1109/ICDAR.2007.4377029)
 
