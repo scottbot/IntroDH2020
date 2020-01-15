@@ -1,12 +1,9 @@
-# Introduction to Digital Humanities
-# ENGL 76-429
-
-Carnegie Mellon University
-
-Spring 2020
-
-## Instructor
-
-Scott B. Weingart
-
-scottbot@cmu.edu
+---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
+---
