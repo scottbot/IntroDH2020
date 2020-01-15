@@ -9,7 +9,10 @@ layout: home
 title: Intro to DH
 ---
 
-# Introduction to Digital Humanities (ENGL 76-429/829)
+ENGL 76-429/829
+
+Spring 2020
+
 Carnegie Mellon University
 
 ## Instructor
