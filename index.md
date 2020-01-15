@@ -6,6 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Intro to DH
 ---
 
 # Introduction to Digital Humanities (ENGL 76-429/829)
