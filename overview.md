@@ -12,7 +12,7 @@ Spring 2020
 Carnegie Mellon University
 
 ### Instructor
-Scott B. Weingart / [scottbot@cmu.edu](scottbot@cmu.edu) / [@scott_bot](https://twitter.com/scott_bot)
+Scott B. Weingart / [scottbot@cmu.edu](mailto:scottbot@cmu.edu) / [@scott_bot](https://twitter.com/scott_bot)
 
 ### Details
 Location: Wean 4418 (Sorrells Library)
