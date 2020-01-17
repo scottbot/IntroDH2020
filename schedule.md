@@ -33,6 +33,7 @@ Session Leader: Sabrina
 1. Krause, H. (2017, March 27). Data Biographies: Getting to Know Your Data. *Global Investigative Journalism Network*. [https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)
 2. Thwaites, T. (2011). *The Toaster Project: Or a Heroic Attempt to Build a Simple Electric Appliance from Scratch*. Princeton Architectural Press.
 3. Weingart, S. B. (2019, February 22). The Route of a Text Message, a Love Story. *Vice*. [https://www.vice.com/en_us/article/kzdn8n/the-route-of-a-text-message-a-love-story](https://www.vice.com/en_us/article/kzdn8n/the-route-of-a-text-message-a-love-story)
+4. Send your Zotero username, and download / setup Zotero.
 
 ### Class Activities
 - Seminar
