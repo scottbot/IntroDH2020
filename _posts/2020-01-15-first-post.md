@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The First Post"
-Author: "Scott B. Weingart"
+author: "Scott B. Weingart"
 ---
 This is the first blog posts. Yours will look quite similar. Here are styles:
 
