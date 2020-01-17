@@ -54,6 +54,7 @@ Session Leader: ??
 
 ### Class Activities
 - Go over Ngram searches.
+- Explain [https://books.google.com/ngrams/graph?content=fuck%2Csuck&year_start=1700&year_end=1900&corpus=1&smoothing=3&share=&direct_url=t1%3B%2Cfuck%3B%2Cc0%3B.t1%3B%2Csuck%3B%2Cc0](https://books.google.com/ngrams/graph?content=fuck%2Csuck&year_start=1700&year_end=1900&corpus=1&smoothing=3&share=&direct_url=t1%3B%2Cfuck%3B%2Cc0%3B.t1%3B%2Csuck%3B%2Cc0), [https://books.google.com/ngrams/graph?content=lf%2Clt%2Cln&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Clf%3B%2Cc0%3B.t1%3B%2Clt%3B%2Cc0%3B.t1%3B%2Cln%3B%2Cc0](https://books.google.com/ngrams/graph?content=lf%2Clt%2Cln&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Clf%3B%2Cc0%3B.t1%3B%2Clt%3B%2Cc0%3B.t1%3B%2Cln%3B%2Cc0) and [https://books.google.com/ngrams/graph?content=02138&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2C02138%3B%2Cc0](https://books.google.com/ngrams/graph?content=02138&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2C02138%3B%2Cc0)
 - Seminar
 
 ### Reading Options
@@ -72,12 +73,14 @@ Session Leader: ??
 - 
 
 ### Assignments
-1. Santin, B., Murphy, D., & Wilkens, M. (2016). Is or Are: The “United States” in Nineteenth-Century Print Culture. *American Quarterly*, *68*(1), 101–124. [https://doi.org/10.1353/aq.2016.0011](https://doi.org/10.1353/aq.2016.0011)
-2. Silber, N. (2016). Reunion and Reconciliation, Reviewed and Reconsidered. *Journal of American History*, *103*(1), 59–83. [https://doi.org/10.1093/jahist/jaw008](https://doi.org/10.1093/jahist/jaw008)
-3. ??
+1. Find contexts for Is/Are in [https://books.google.com/ngrams/graph?content=%28%28The+United+States+is+%2B+The+United+States+has%29%2F%28The+United+States%29%29%2C%28%28The+United+States+are+%2B+The+United+States+have%29%2F%28The+United+States%29%29&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2C%28%28The%20United%20States%20is%20%2B%20The%20United%20States%20has%29%20/%20%28The%20United%20States%29%29%3B%2Cc0%3B.t1%3B%2C%28%28The%20United%20States%20are%20%2B%20The%20United%20States%20have%29%20/%20%28The%20United%20States%29%29%3B%2Cc0](https://books.google.com/ngrams/graph?content=%28%28The+United+States+is+%2B+The+United+States+has%29%2F%28The+United+States%29%29%2C%28%28The+United+States+are+%2B+The+United+States+have%29%2F%28The+United+States%29%29&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2C%28%28The%20United%20States%20is%20%2B%20The%20United%20States%20has%29%20/%20%28The%20United%20States%29%29%3B%2Cc0%3B.t1%3B%2C%28%28The%20United%20States%20are%20%2B%20The%20United%20States%20have%29%20/%20%28The%20United%20States%29%29%3B%2Cc0)
+2. Santin, B., Murphy, D., & Wilkens, M. (2016). Is or Are: The “United States” in Nineteenth-Century Print Culture. *American Quarterly*, *68*(1), 101–124. [https://doi.org/10.1353/aq.2016.0011](https://doi.org/10.1353/aq.2016.0011)
+3. Silber, N. (2016). Reunion and Reconciliation, Reviewed and Reconsidered. *Journal of American History*, *103*(1), 59–83. [https://doi.org/10.1093/jahist/jaw008](https://doi.org/10.1093/jahist/jaw008)
+4. ??
 
 
 ### Class Activities
+- Go over [Is/Are examples in Goolge Books](https://books.google.com/ngrams/graph?content=%28%28The+United+States+is+%2B+The+United+States+has%29%2F%28The+United+States%29%29%2C%28%28The+United+States+are+%2B+The+United+States+have%29%2F%28The+United+States%29%29&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2C%28%28The%20United%20States%20is%20%2B%20The%20United%20States%20has%29%20/%20%28The%20United%20States%29%29%3B%2Cc0%3B.t1%3B%2C%28%28The%20United%20States%20are%20%2B%20The%20United%20States%20have%29%20/%20%28The%20United%20States%29%29%3B%2Cc0).
 - Seminar
 
 ### Reading Options
