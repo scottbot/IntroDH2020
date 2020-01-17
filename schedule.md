@@ -24,7 +24,7 @@ The below schedule is *tentative* and *evolving*. Reading option lists will be c
 - Set up Zotero.
 
 ## 1/22 - 2. Conducting a Deep Dive
-Session Leader: ??
+Session Leader: Sabrina
 
 ### Leader Notes
 - 
@@ -41,7 +41,7 @@ Session Leader: ??
 - Weingart, S. B. (2015, July 12). Down the Rabbit Hole. *The Scottbot Irregular*. [http://scottbot.net/down-the-rabbit-hole/](http://scottbot.net/down-the-rabbit-hole/) 
 
 ## 1/24 - 3. Google Books and Culturomics
-Session Leader: ??
+Session Leader: Gayathri
 
 ### Leader Notes
 - 
@@ -70,7 +70,7 @@ Session Leader: ??
 - Wikipedia Editors. (2020). Google Books. In *Wikipedia*. [https://en.wikipedia.org/w/index.php?title=Google_Books&oldid=934521616](https://en.wikipedia.org/w/index.php?title=Google_Books&oldid=934521616)
 
 ## 1/29 - 4. United States Is/Are and American History
-Session Leader: ??
+Session Leader: India
 
 ### Leader Notes
 - 
@@ -92,7 +92,7 @@ Session Leader: ??
 - Wilkens, M. (2014, September 1). Singularization Corpus Data. *Work Product*. [https://mattwilkens.com/data/singularization-corpus-listing/](https://mattwilkens.com/data/singularization-corpus-listing/)
 
 ## 1/31 - 5. History of Book Scanning & Google Books
-Session Leader: ??
+Session Leader: Jaclyn
 
 ### Leader Notes
 - 
@@ -117,7 +117,7 @@ Session Leader: ??
 - Wikipedia Editors. (2019). *Million Book Project*. In *Wikipedia*. [https://en.wikipedia.org/w/index.php?title=Million_Book_Project&oldid=932790379](https://en.wikipedia.org/w/index.php?title=Million_Book_Project&oldid=932790379)
 
 ## 2/5 - 6. Ngram Interfaces and their Affordances
-Session Leader: ??
+Session Leader: Shambhavi
 
 ### Leader Notes
 - 
@@ -142,7 +142,7 @@ Session Leader: ??
 - Sinclair, S., & Rockwell, G. (2020). *Voyant Tools*. Voyant Tools. [https://voyant-tools.org/](https://voyant-tools.org/)
 
 ## 2/7 - 7. Digital Labor
-Session Leader: ??
+Session Leader: Chloe
 
 ### Leader Notes
 - 
@@ -166,7 +166,7 @@ Session Leader: ??
 - Newton, C. (2019, February 25). The secret lives of Facebook moderators in America. *The Verge*. [https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona)
 
 ## 2/12 - 8. Politics, Laws, and Pirates
-Session Leader: ??
+Session Leader: Shambhavi
 
 ### Leader Notes
 - 
@@ -195,7 +195,7 @@ Session Leader: ??
 - Wikipedia Editors. (2019b). *Authors Guild, Inc. V. HathiTrust*. In Wikipedia. [https://en.wikipedia.org/w/index.php?title=Authors_Guild,_Inc._v._HathiTrust&oldid=921770897](https://en.wikipedia.org/w/index.php?title=Authors_Guild,_Inc._v._HathiTrust&oldid=921770897)
 
 ## 2/14 - 9. Technologies of Book Scanning
-Session Leader: ??
+Session Leader: India
 
 ### Leader Notes
 - 
@@ -219,7 +219,7 @@ Session Leader: ??
 - Vincent, L. (2007). Google Book Search: Document Understanding on a Massive Scale. *Ninth International Conference on Document Analysis and Recognition (ICDAR 2007)*, *2*, 819–823. [https://doi.org/10.1109/ICDAR.2007.4377029](https://doi.org/10.1109/ICDAR.2007.4377029)
 
 ## 2/19 - 10. Critiques of Google Books and Ngrams
-Session Leader: ??
+Session Leader: Gayathri
 
 ### Leader Notes
 - 
@@ -267,7 +267,7 @@ Session Leader: ??
 - Zentgraf, D. (2015, April 27). What Every Programmer Absolutely, Positively Needs to Know About Encodings and Character Sets to Work With Text. *Kunststube*.[ http://kunststube.net/encoding/](http://kunststube.net/encoding/)
 
 ## 2/28 - 13. History of Computing & Human Information Technology
-Session Leader: ??
+Session Leader: Sabrina
 
 ### Leader Notes
 - 
@@ -286,7 +286,7 @@ Session Leader: ??
 - Turing, A. M. (1950). Computing Machinery and Intelligence. *Mind*, *LIX*(236), 433–460.[ https://doi.org/10.1093/mind/LIX.236.433](https://doi.org/10.1093/mind/LIX.236.433)
 
 ## 3/4 - 14. TEI / Encoding Digital Editions
-Session Leader: ??
+Session Leader: Jaclyn
 
 ### Leader Notes
 - 
@@ -317,7 +317,7 @@ Session Leader: ??
 ## 3/13 - 17. No Class (Spring Break)
 
 ## 3/18 - 18. Penumbra
-Session Leader: ??
+Session Leader: Sabrina
 
 ### Leader Notes
 - 
@@ -329,7 +329,7 @@ Session Leader: ??
 - Seminar
 
 ## 3/20 - 19. Document-Term Matrices and Vector Space
-Session Leader: ??
+Session Leader: Gayathri
 
 ### Leader Notes
 - 
@@ -349,7 +349,7 @@ Session Leader: ??
 - Wikipedia Editors. (2018). Document-term matrix. In *Wikipedia*.[ https://en.wikipedia.org/w/index.php?title=Document-term_matrix&oldid=841158065](https://en.wikipedia.org/w/index.php?title=Document-term_matrix&oldid=841158065)
 
 ## 3/25 - 20. Ngrams as Analysis
-Session Leader: ??
+Session Leader: Gayathri
 
 ### Leader Notes
 - 
@@ -375,7 +375,7 @@ Session Leader: ??
 - Twenge, J. M., Campbell, W. K., & Gentile, B. (2012c). Changes in Pronoun Use in American Books and the Rise of Individualism, 1960-2008. *Journal of Cross-Cultural Psychology*.[ https://doi.org/10.1177/0022022112455100](https://doi.org/10.1177/0022022112455100)
 
 ## 3/27 - 21. Cultural Analytics
-Session Leader: ??
+Session Leader: Chloe
 
 ### Leader Notes
 - 
@@ -400,7 +400,7 @@ Session Leader: ??
 - Wilkens, M. (2015, January 14). Literary Attention Lag. *Work Product*.[ https://mattwilkens.com/2015/01/13/literary-attention-lag/](https://mattwilkens.com/2015/01/13/literary-attention-lag/)
 
 ## 4/1 - 22. Experimental Design
-Session Leader: ??
+Session Leader: Shamhbavi
 
 ### Leader Notes
 - 
@@ -420,7 +420,7 @@ Session Leader: ??
 - Schmidt, B. M. (2016). Do Digital Humanists Need to Understand Algorithms? In *Debates in the Digital Humanities 2016*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45](https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45)
 
 ## 4/3 - 23. Experimental Methods in Cultural Analytics
-Session Leader: ??
+Session Leader: India
 
 ### Leader Notes
 - 
@@ -442,7 +442,7 @@ Session Leader: ??
 - Weingart, S. B. (2017, July 26). Argument Clinic. *The Scottbot Irregular*.[ https://scottbot.net/argument-clinic/](https://scottbot.net/argument-clinic/)
 
 ## 4/8 - 24. Genealogies of Distant Reading
-Session Leader: ??
+Session Leader: Chloe
 
 ### Leader Notes
 - 
@@ -466,7 +466,7 @@ Session Leader: ??
 - Underwood, T. (2017). A Genealogy of Distant Reading. *Digital Humanities Quarterly*, *11*(2).[ http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html)
 
 ## 4/10 - 25. Cliometrics and Digital History
-Session Leader: ??
+Session Leader: India
 
 ### Leader Notes
 - 
@@ -494,7 +494,7 @@ Session Leader: ??
 - Weingart, S. B. (2016, May 2). "Digital History" Can Never Be New. *The Scottbot Irregular*.[ http://scottbot.net/digital-history-can-never-be-new/](http://scottbot.net/digital-history-can-never-be-new/)
 
 ## 4/15 - 26. Digital Source Criticism
-Session Leader: ??
+Session Leader: Jaclyn
 
 ### Leader Notes
 - 
@@ -532,7 +532,7 @@ Session Leader: ??
 ## 4/17 - 27. No Class (Carnival)
 
 ## 4/22 - 28. Critique of Cultural Analytics
-Session Leader: ??
+Session Leader: Shambhavi
 
 ### Leader Notes
 - 
@@ -551,7 +551,7 @@ Session Leader: ??
 - Marche, S. (2012, October). Literature Is not Data: Against Digital Humanities. *Los Angeles Review of Books*.[ https://lareviewofbooks.org/article/literature-is-not-data-against-digital-humanities/](https://lareviewofbooks.org/article/literature-is-not-data-against-digital-humanities/)
 
 ## 4/24 - 29. Limits of Numbers
-Session Leader: ??
+Session Leader: Sabrina
 
 ### Leader Notes
 - 
@@ -569,7 +569,7 @@ Session Leader: ??
 - Posner, M. (2015, June 25). *Humanities Data: A Necessary Contradiction* [Miriam Posner’s Blog].[ http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)
 
 ## 4/29 - 30. Data Visualization
-Session Leader: ??
+Session Leader: Jaclyn
 
 ### Leader Notes
 - 
