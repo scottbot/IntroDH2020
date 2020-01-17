@@ -54,7 +54,10 @@ Session Leader: ??
 
 ### Class Activities
 - Go over Ngram searches.
-- Explain [https://books.google.com/ngrams/graph?content=fuck%2Csuck&year_start=1700&year_end=1900&corpus=1&smoothing=3&share=&direct_url=t1%3B%2Cfuck%3B%2Cc0%3B.t1%3B%2Csuck%3B%2Cc0](https://books.google.com/ngrams/graph?content=fuck%2Csuck&year_start=1700&year_end=1900&corpus=1&smoothing=3&share=&direct_url=t1%3B%2Cfuck%3B%2Cc0%3B.t1%3B%2Csuck%3B%2Cc0), [https://books.google.com/ngrams/graph?content=lf%2Clt%2Cln&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Clf%3B%2Cc0%3B.t1%3B%2Clt%3B%2Cc0%3B.t1%3B%2Cln%3B%2Cc0](https://books.google.com/ngrams/graph?content=lf%2Clt%2Cln&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Clf%3B%2Cc0%3B.t1%3B%2Clt%3B%2Cc0%3B.t1%3B%2Cln%3B%2Cc0) and [https://books.google.com/ngrams/graph?content=02138&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2C02138%3B%2Cc0](https://books.google.com/ngrams/graph?content=02138&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2C02138%3B%2Cc0)
+- Explain 
+	1. [https://books.google.com/ngrams/graph? content=fuck%2Csuck&year_start=1700&year_end=1900&corpus=1&smoothing=3&share=&direct_url=t1%3B%2Cfuck%3B%2Cc0%3B.t1%3B%2Csuck%3B%2Cc0](https://books.google.com/ngrams/graph?content=fuck%2Csuck&year_start=1700&year_end=1900&corpus=1&smoothing=3&share=&direct_url=t1%3B%2Cfuck%3B%2Cc0%3B.t1%3B%2Csuck%3B%2Cc0),
+	2. [https://books.google.com/ngrams/graph?content=lf%2Clt%2Cln&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Clf%3B%2Cc0%3B.t1%3B%2Clt%3B%2Cc0%3B.t1%3B%2Cln%3B%2Cc0](https://books.google.com/ngrams/graph?content=lf%2Clt%2Cln&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Clf%3B%2Cc0%3B.t1%3B%2Clt%3B%2Cc0%3B.t1%3B%2Cln%3B%2Cc0), and 
+  3. [https://books.google.com/ngrams/graph?content=02138&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2C02138%3B%2Cc0](https://books.google.com/ngrams/graph?content=02138&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2C02138%3B%2Cc0)
 - Seminar
 
 ### Reading Options
