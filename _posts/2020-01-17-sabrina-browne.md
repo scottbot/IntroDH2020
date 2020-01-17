@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Test Post"
+title: "Sabrina's first post"
 author: "Sabrina Browne"
 ---
 
