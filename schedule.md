@@ -177,9 +177,8 @@ Session Leader: Shambhavi
 4. Rosenberg, S. (2017, April 11). How Google Book Search Got Lost. *Wired*. [https://www.wired.com/2017/04/how-google-book-search-got-lost/](https://www.wired.com/2017/04/how-google-book-search-got-lost/)
 5. Cox, K. (2015, January 8). Authors Guild v. HathiTrust Litigation Ends in Victory for Fair Use. *Association of Research Libraries Policy Notes*. [https://www.arl.org/news/authors-guild-v-hathitrust-litigation-ends-in-victory-for-fair-use/](https://www.arl.org/news/authors-guild-v-hathitrust-litigation-ends-in-victory-for-fair-use/)
 6. Summary: Authors Guild v. Google Inc., No. 13-4829–cv (Second Circuit October 16, 2015). [https://www.copyright.gov/fair-use/summaries/authorsguild-google-2dcir2015.pdf](https://www.copyright.gov/fair-use/summaries/authorsguild-google-2dcir2015.pdf)
-7. Gallé, M., & Tealdi, M. (2015). Reconstructing Textual Documents from N-grams. *Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, 329–338. [https://doi.org/10.1145/2783258.2783361] **Don't need to read this one deeply. Just get the gist of it.**
+7. Gallé, M., & Tealdi, M. (2015). Reconstructing Textual Documents from N-grams. *Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, 329–338. [https://doi.org/10.1145/2783258.2783361](https://doi.org/10.1145/2783258.2783361) **Don't need to read this one deeply. Just get the gist of it.**
 8. Click around Elbakyan, A. (2020). *Sci-Hub: Removing barriers in the way of science*. Sci-Hub. [https://sci-hub.tw/](https://sci-hub.tw/)
-(https://doi.org/10.1145/2783258.2783361)
 9. Click around Library Genesis Team. (2020). *Library Genesis*. Library Genesis. [https://libgen.is/](https://libgen.is/)
 
 
