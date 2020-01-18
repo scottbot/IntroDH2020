@@ -51,7 +51,9 @@ Session Leader: Gayathri
 1. Come into class with some fun or interesting Ngram searches completed.
 2. Michel, J.-B., Shen, Y. K., Aiden, A. P., Veres, A., Gray, M. K., The Google Books Team, Pickett, J. P., Hoiberg, D., Clancy, D., Norvig, P., Orwant, J., Pinker, S., Nowak, M. A., & Aiden, E. L. (2011). Quantitative Analysis of Culture Using Millions of Digitized Books. *Science*, *331*(6014), 176–182. [https://doi.org/10.1126/science.1199644](https://doi.org/10.1126/science.1199644)
 3. Zimmer, B. (2012, October 18). Bigger, Better Google Ngrams: Brace Yourself for the Power of Grammar. *The Atlantic*. [https://www.theatlantic.com/technology/archive/2012/10/bigger-better-google-ngrams-brace-yourself-for-the-power-of-grammar/263487/](https://www.theatlantic.com/technology/archive/2012/10/bigger-better-google-ngrams-brace-yourself-for-the-power-of-grammar/263487/)
-4. ??
+4. Bohannon, J. (2011). Google Books, Wikipedia, and the Future of Culturomics. *Science*, *331*(6014), 135. [https://doi.org/10.1126/science.331.6014.135](https://doi.org/10.1126/science.331.6014.135)
+5. The Google Ngram Viewer Team. (2013). *Google Ngram Viewer*. Google Books. [https://books.google.com/ngrams/info](https://books.google.com/ngrams/info)
+6. Wikipedia Editors. (2020). Google Books. In *Wikipedia*. [https://en.wikipedia.org/w/index.php?title=Google_Books&oldid=934521616](https://en.wikipedia.org/w/index.php?title=Google_Books&oldid=934521616)
 
 ### Class Activities
 - Go over Ngram searches.
@@ -63,12 +65,9 @@ Session Leader: Gayathri
 
 ### Reading Options
 - Aiden, E., & Michel, J.-B. (2013). *Uncharted: Big data as a lens on human culture*.
-- Bohannon, J. (2011). Google Books, Wikipedia, and the Future of Culturomics. *Science*, *331*(6014), 135. [https://doi.org/10.1126/science.331.6014.135](https://doi.org/10.1126/science.331.6014.135)
 - Chung, C. K., & Pennebaker, J. W. (2012, July 9). *Counting Little Words in Big Data: The Psychology of Communities, Culture, and - History*. EASP Small Group Meeting on Social Cognition and Communication, Pecs, Hungary.
 - Hand, E. (2011). Culturomics: Word play. *Nature News*, *474*(7352), 436–440. [https://doi.org/10.1038/474436a](https://doi.org/10.1038/474436a)
 - Madrigal, A. C. (2010, November 1). Inside the Google Books Algorithm. *The Atlantic*. [https://www.theatlantic.com/technology/archive/2010/11/inside-the-google-books-algorithm/65422/](https://www.theatlantic.com/technology/archive/2010/11/inside-the-google-books-algorithm/65422/)
-- The Google Ngram Viewer Team. (2013). *Google Ngram Viewer*. Google Books. [https://books.google.com/ngrams/info](https://books.google.com/ngrams/info)
-- Wikipedia Editors. (2020). Google Books. In *Wikipedia*. [https://en.wikipedia.org/w/index.php?title=Google_Books&oldid=934521616](https://en.wikipedia.org/w/index.php?title=Google_Books&oldid=934521616)
 
 ## 1/29 - 4. United States Is/Are and American History
 Session Leader: India
@@ -80,8 +79,6 @@ Session Leader: India
 1. Find contexts for Is/Are in [https://books.google.com/ngrams/graph?content=%28%28The+United+States+is+%2B+The+United+States+has%29%2F%28The+United+States%29%29%2C%28%28The+United+States+are+%2B+The+United+States+have%29%2F%28The+United+States%29%29&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2C%28%28The%20United%20States%20is%20%2B%20The%20United%20States%20has%29%20/%20%28The%20United%20States%29%29%3B%2Cc0%3B.t1%3B%2C%28%28The%20United%20States%20are%20%2B%20The%20United%20States%20have%29%20/%20%28The%20United%20States%29%29%3B%2Cc0](https://books.google.com/ngrams/graph?content=%28%28The+United+States+is+%2B+The+United+States+has%29%2F%28The+United+States%29%29%2C%28%28The+United+States+are+%2B+The+United+States+have%29%2F%28The+United+States%29%29&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2C%28%28The%20United%20States%20is%20%2B%20The%20United%20States%20has%29%20/%20%28The%20United%20States%29%29%3B%2Cc0%3B.t1%3B%2C%28%28The%20United%20States%20are%20%2B%20The%20United%20States%20have%29%20/%20%28The%20United%20States%29%29%3B%2Cc0)
 2. Santin, B., Murphy, D., & Wilkens, M. (2016). Is or Are: The “United States” in Nineteenth-Century Print Culture. *American Quarterly*, *68*(1), 101–124. [https://doi.org/10.1353/aq.2016.0011](https://doi.org/10.1353/aq.2016.0011)
 3. Silber, N. (2016). Reunion and Reconciliation, Reviewed and Reconsidered. *Journal of American History*, *103*(1), 59–83. [https://doi.org/10.1093/jahist/jaw008](https://doi.org/10.1093/jahist/jaw008)
-4. ??
-
 
 ### Class Activities
 - Go over [Is/Are examples in Goolge Books](https://books.google.com/ngrams/graph?content=%28%28The+United+States+is+%2B+The+United+States+has%29%2F%28The+United+States%29%29%2C%28%28The+United+States+are+%2B+The+United+States+have%29%2F%28The+United+States%29%29&year_start=1800&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2C%28%28The%20United%20States%20is%20%2B%20The%20United%20States%20has%29%20/%20%28The%20United%20States%29%29%3B%2Cc0%3B.t1%3B%2C%28%28The%20United%20States%20are%20%2B%20The%20United%20States%20have%29%20/%20%28The%20United%20States%29%29%3B%2Cc0).
@@ -101,17 +98,16 @@ Session Leader: Jaclyn
 ### Assignments
 1. Centivany, A. (2017). The Dark History of HathiTrust. *Proceedings of the 50th Hawaii International Conference on System Sciences*, 1–10. [https://ir.lib.uwo.ca/fimspub/120/](https://ir.lib.uwo.ca/fimspub/120/)
 2. University of Michigan and Google, Inc. (2005). *UM-Google Cooperative Agreement*. [https://www.lib.umich.edu/files/services/mdp/um-google-cooperative-agreement.pdf](https://www.lib.umich.edu/files/services/mdp/um-google-cooperative-agreement.pdf)
-3. ??
+3. Clair, G. S. (2008). The Million Book Project in Relation to Google. *Journal of Library Administration*, *47*(1–2), 151–163. [https://doi.org/10.1080/01930820802111041](https://doi.org/10.1080/01930820802111041)
+4. Gavin, M. (2017). How To Think About EEBO. *Textual Cultures*, *11*(1–2), 70–105. [https://doi.org/10.14434/textual.v11i1-2.23570](https://doi.org/10.14434/textual.v11i1-2.23570)
+5. Click around HathiTrust. HathiTrust Team. (2020). *HathiTrust Digital Library*. HathiTrust Digital Library. [https://www.hathitrust.org/](https://www.hathitrust.org/)
 
 ### Class Activities
 - Seminar
 
 ### Reading Options
-- Clair, G. S. (2008). The Million Book Project in Relation to Google. *Journal of Library Administration*, *47*(1–2), 151–163. [https://doi.org/10.1080/01930820802111041](https://doi.org/10.1080/01930820802111041)
 - Coyle, K. (2006). Mass Digitization of Books. *The Journal of Academic Librarianship*, *32*(6), 641–645. [https://doi.org/10.1016/j.acalib.2006.08.002](https://doi.org/10.1016/j.acalib.2006.08.002)
-- Gavin, M. (2017). How To Think About EEBO. *Textual Cultures*, *11*(1–2), 70–105. [https://doi.org/10.14434/textual.v11i1-2.23570](https://doi.org/10.14434/textual.v11i1-2.23570)
 - Google, Inc. (2004, December 14). *What is Google Print?* About Google Print (Beta). [https://web.archive.org/web/20041214092414/http://print.google.com/](https://web.archive.org/web/20041214092414/http://print.google.com/)
-- HathiTrust Team. (2020). *HathiTrust Digital Library*. HathiTrust Digital Library. [https://www.hathitrust.org/](https://www.hathitrust.org/)
 - Jones, E. A. (2014). *Constructing the Universal Library* [Thesis, Washington University]. [https://digital.lib.washington.edu:443/researchworks/handle/1773/26408](https://digital.lib.washington.edu:443/researchworks/handle/1773/26408)
 - Leetaru, K. (2008). Mass book digitization: The deeper story of Google Books and the Open Content Alliance. *First Monday*, *13*(10). [https://doi.org/10.5210/fm.v13i10.2101](https://doi.org/10.5210/fm.v13i10.2101)
 - Murrell, M. (2010). Digital + Library: Mass Book Digitization as Collective Inquiry. *New York Law School Law Review*, *55*, 221. [http://www.nylslawreview.com/wp-content/uploads/sites/16/2013/11/55-1.Murrell.pdf](http://www.nylslawreview.com/wp-content/uploads/sites/16/2013/11/55-1.Murrell.pdf)
@@ -125,20 +121,22 @@ Session Leader: Shambhavi
 
 ### Assignments
 1. Gaver, W. W. (1991). Technology affordances. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems Reaching through Technology - CHI ’91*, 79–84. [https://doi.org/10.1145/108844.108856](https://doi.org/10.1145/108844.108856)
-2. ??
+2. Fraas, M., & Schmidt, B. M. (2015, January 18). The Language of the State of the Union. *The Atlantic*. [https://www.theatlantic.com/politics/archive/2015/01/the-language-of-the-state-of-the-union/384575/]
+3. Click around Peachnote. (2018). *Peachnote Music Search*. Peachnote. [http://www.peachnote.com](http://www.peachnote.com)
+4. Click around Schmidt, B. M. (2020a). *bookworm: HathiTrust*. HathiTrust Digital Library. [https://bookworm.htrc.illinois.edu/develop/](https://bookworm.htrc.illinois.edu/develop/). Compare against Google Books Ngrams.
+5. Click around Schmidt, B. M. (2015, February). *Gendered Language in Teaching Evaluations*. Gender and Teaching Reviews. [http://benschmidt.org/profGender/](http://benschmidt.org/profGender/)
+
 
 ### Class Activities
+- Learn BYU Corpus exploration environments.
 - Learn Voyant Tools.
 - Seminar
 
 ### Reading Options
 - Davies, M. (2020). *BYU corpora*. Corpus.Byu.Edu. [https://corpus.byu.edu/overview.asp](https://corpus.byu.edu/overview.asp)
-- Fraas, M., & Schmidt, B. M. (2015, January 18). The Language of the State of the Union. *The Atlantic*. [https://www.theatlantic.com/politics/archive/2015/01/the-language-of-the-state-of-the-union/384575/](https://www.theatlantic.com/politics/archive/2015/01/the-language-of-the-state-of-the-union/384575/)
+(https://www.theatlantic.com/politics/archive/2015/01/the-language-of-the-state-of-the-union/384575/)
 - King, L., & Leonard, P. (2020). *Robots Reading Vogue: N-gram Search*. Digital Humanities at Yale University. [http://bookworm.library.yale.edu/](http://bookworm.library.yale.edu/)
-- Peachnote. (2018). *Peachnote Music Search*. Peachnote. [http://www.peachnote.com](http://www.peachnote.com)
-- Schmidt, B. M. (2015, February). *Gendered Language in Teaching Evaluations*. Gender and Teaching Reviews. [http://benschmidt.org/profGender/](http://benschmidt.org/profGender/)
 - Schmidt, B. M. (2018, November 6). *Bookworm*. Culturomics. [http://web.archive.org/web/20181106205507/http://bookworm.culturomics.org/](http://web.archive.org/web/20181106205507/http://bookworm.culturomics.org/)
-- Schmidt, B. M. (2020a). *bookworm: HathiTrust*. HathiTrust Digital Library. [https://bookworm.htrc.illinois.edu/develop/](https://bookworm.htrc.illinois.edu/develop/)
 - Schmidt, B. M. (2020b). *bookworm: Open Library*. Bookworm. [http://benschmidt.org/OL/](http://benschmidt.org/OL/)
 - Sinclair, S., & Rockwell, G. (2020). *Voyant Tools*. Voyant Tools. [https://voyant-tools.org/](https://voyant-tools.org/)
 
@@ -153,13 +151,13 @@ Session Leader: Chloe
 2. Wilson, A. N. (2012). *ScanOps*. [http://www.andrewnormanwilson.com/ScanOps.html](http://www.andrewnormanwilson.com/ScanOps.html)
 3. Wilson, K. (2018). *The Art of Google Books*. [https://theartofgooglebooks.tumblr.com/?og=1](https://theartofgooglebooks.tumblr.com/?og=1)
 4. Zeffiro, A. (2019). Digitizing Labor in the Google Books Project. In S. Ross & A. Pilsch, *Humans at Work in the Digital Age: Forms of Digital Textual Labor*. Routledge. [https://doi.org/10.4324/9780429244599](https://doi.org/10.4324/9780429244599)
-5. ??
+5. Goldsmith, K. (2013, December 4). *The Artful Accidents of Google Books*. [https://www.newyorker.com/books/page-turner/the-artful-accidents-of-google-books](https://www.newyorker.com/books/page-turner/the-artful-accidents-of-google-books)
+
 
 ### Class Activities
 - Seminar
 
 ### Reading Options
-- Goldsmith, K. (2013, December 4). *The Artful Accidents of Google Books*. [https://www.newyorker.com/books/page-turner/the-artful-accidents-of-google-books](https://www.newyorker.com/books/page-turner/the-artful-accidents-of-google-books)
 - Irani, L. (2015a). Difference and Dependence among Digital Workers: The Case of Amazon Mechanical Turk. *South Atlantic Quarterly*, *114*, 225–234. [https://doi.org/10.1215/00382876-2831665](https://doi.org/10.1215/00382876-2831665)
 - Irani, L. (2015b, January 15). Justice for “Data Janitors.” *Public Books*. [https://www.publicbooks.org/justice-for-data-janitors/](https://www.publicbooks.org/justice-for-data-janitors/)
 - Lecher, C. (2017, April 16). A new documentary goes inside the bleak world of content moderation. *The Verge*. [https://www.theverge.com/2017/4/16/15305562/the-moderators-documentary](https://www.theverge.com/2017/4/16/15305562/the-moderators-documentary)
@@ -177,7 +175,13 @@ Session Leader: Shambhavi
 2. Balázs, B. (2011). Coda: A Short History of Book Piracy. In Joe Karaganis, *Media Piracy in Emerging Economies*. Lulu.com.
 3. Jockers, M., Sag, M., & Schultz, J. (2012). *Brief of Digital Humanities and Law Scholars as Amici Curiae in Authors Guild v. Google* (SSRN Scholarly Paper ID 2102542). Social Science Research Network. [https://papers.ssrn.com/abstract=2102542](https://papers.ssrn.com/abstract=2102542)
 4. Rosenberg, S. (2017, April 11). How Google Book Search Got Lost. *Wired*. [https://www.wired.com/2017/04/how-google-book-search-got-lost/](https://www.wired.com/2017/04/how-google-book-search-got-lost/)
-5. ??
+5. Cox, K. (2015, January 8). Authors Guild v. HathiTrust Litigation Ends in Victory for Fair Use. *Association of Research Libraries Policy Notes*. [https://www.arl.org/news/authors-guild-v-hathitrust-litigation-ends-in-victory-for-fair-use/](https://www.arl.org/news/authors-guild-v-hathitrust-litigation-ends-in-victory-for-fair-use/)
+6. Summary: Authors Guild v. Google Inc., No. 13-4829–cv (Second Circuit October 16, 2015). [https://www.copyright.gov/fair-use/summaries/authorsguild-google-2dcir2015.pdf](https://www.copyright.gov/fair-use/summaries/authorsguild-google-2dcir2015.pdf)
+7. Gallé, M., & Tealdi, M. (2015). Reconstructing Textual Documents from N-grams. *Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, 329–338. [https://doi.org/10.1145/2783258.2783361] **Don't need to read this one deeply. Just get the gist of it.**
+8. Click around Elbakyan, A. (2020). *Sci-Hub: Removing barriers in the way of science*. Sci-Hub. [https://sci-hub.tw/](https://sci-hub.tw/)
+(https://doi.org/10.1145/2783258.2783361)
+9. Click around Library Genesis Team. (2020). *Library Genesis*. Library Genesis. [https://libgen.is/](https://libgen.is/)
+
 
 ### Class Activities
 - Seminar
@@ -185,13 +189,8 @@ Session Leader: Shambhavi
 ### Reading Options
 - Ávila-Torres, V. (2016). Making Sense of Acquiring Music in Mexico City. In R. Nowak & A. Whelan (Eds.), *Networked Music Cultures: Contemporary Approaches, Emerging Issues* (pp. 77–93). Palgrave Macmillan UK. [https://doi.org/10.1057/978-1-137-58290-4_6](https://doi.org/10.1057/978-1-137-58290-4_6)
 - Castelvecchi, D. (2019). Venice ‘time machine’ project suspended amid data row. *Nature*, *574*(7780), 607–607. [https://doi.org/10.1038/d41586-019-03240-w](https://doi.org/10.1038/d41586-019-03240-w)
-- Cox, K. (2015, January 8). Authors Guild v. HathiTrust Litigation Ends in Victory for Fair Use. *Association of Research Libraries Policy Notes*. [https://www.arl.org/news/authors-guild-v-hathitrust-litigation-ends-in-victory-for-fair-use/](https://www.arl.org/news/authors-guild-v-hathitrust-litigation-ends-in-victory-for-fair-use/)
-- Elbakyan, A. (2020). *Sci-Hub: Removing barriers in the way of science*. Sci-Hub. [https://sci-hub.tw/](https://sci-hub.tw/)
-- Gallé, M., & Tealdi, M. (2015). Reconstructing Textual Documents from N-grams. *Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, 329–338. [https://doi.org/10.1145/2783258.2783361](https://doi.org/10.1145/2783258.2783361)
-- Library Genesis Team. (2020). *Library Genesis*. Library Genesis. [https://libgen.is/](https://libgen.is/)
 - Samuelson, P. (2009). Google Book Search and the Future of Books in Cyberspace. *Minnesota Law Review*, *94*, 1308.
 - Samuelson, P. (2011). The Google Book Settlement as Copyright Reform. *Wisconsin Law Review*, *2011*, 479.
-- Summary: Authors Guild v. Google Inc., No. 13-4829–cv (Second Circuit October 16, 2015). [https://www.copyright.gov/fair-use/summaries/authorsguild-google-2dcir2015.pdf](https://www.copyright.gov/fair-use/summaries/authorsguild-google-2dcir2015.pdf)
 - Wikipedia Editors. (2019a). *Authors Guild, Inc. V. Google, Inc*. In *Wikipedia*. [https://en.wikipedia.org/w/index.php?title=Authors_Guild,_Inc._v._Google,_Inc.&oldid=920014592](https://en.wikipedia.org/w/index.php?title=Authors_Guild,_Inc._v._Google,_Inc.&oldid=920014592)
 - Wikipedia Editors. (2019b). *Authors Guild, Inc. V. HathiTrust*. In Wikipedia. [https://en.wikipedia.org/w/index.php?title=Authors_Guild,_Inc._v._HathiTrust&oldid=921770897](https://en.wikipedia.org/w/index.php?title=Authors_Guild,_Inc._v._HathiTrust&oldid=921770897)
 
