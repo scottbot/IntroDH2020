@@ -27,7 +27,9 @@ The below schedule is *tentative* and *evolving*. Reading option lists will be c
 Session Leader: Sabrina
 
 ### Leader Notes
-- 
+- In "Data Biographies: Getting to Know Your Data," Heather Krause states that the most important part of getting to know your data is finding out the **why** (i.e. why was it collected?) Do you agree? Is the why more important than the where, who, or how? Is any one of these more important than another?
+- Is knowing how things work a necessary part of using them?
+  - Knowing how a clock works vs. being able to tell time
 
 ### Assignments
 1. Krause, H. (2017, March 27). Data Biographies: Getting to Know Your Data. *Global Investigative Journalism Network*. [https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)
