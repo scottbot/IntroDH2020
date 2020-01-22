@@ -39,7 +39,7 @@ Session Leader: Sabrina
 
 ### Class Activities
 - Seminar
-- Sample deep dive
+- Sample deep dive [https://docs.google.com/document/d/18kvUnWogcNcMeqzeCrhaNNu6wBIeG43TS3Wrymruods/edit?usp=sharing](https://docs.google.com/document/d/18kvUnWogcNcMeqzeCrhaNNu6wBIeG43TS3Wrymruods/edit?usp=sharing)
 
 ### Reading Options
 - Weingart, S. B. (2015, July 12). Down the Rabbit Hole. *The Scottbot Irregular*. [http://scottbot.net/down-the-rabbit-hole/](http://scottbot.net/down-the-rabbit-hole/) 
