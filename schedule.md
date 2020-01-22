@@ -128,7 +128,7 @@ Session Leader: Shambhavi
 3. Click around Peachnote. (2018). *Peachnote Music Search*. Peachnote. [http://www.peachnote.com](http://www.peachnote.com)
 4. Click around Schmidt, B. M. (2020a). *bookworm: HathiTrust*. HathiTrust Digital Library. [https://bookworm.htrc.illinois.edu/develop/](https://bookworm.htrc.illinois.edu/develop/). Compare against Google Books Ngrams.
 5. Click around Schmidt, B. M. (2015, February). *Gendered Language in Teaching Evaluations*. Gender and Teaching Reviews. [http://benschmidt.org/profGender/](http://benschmidt.org/profGender/)
-
+6. Click around Davies, M. (2020). *BYU corpora*. Corpus.Byu.Edu. [https://corpus.byu.edu/overview.asp](https://corpus.byu.edu/overview.asp)
 
 ### Class Activities
 - Learn BYU Corpus exploration environments.
@@ -136,8 +136,6 @@ Session Leader: Shambhavi
 - Seminar
 
 ### Reading Options
-- Davies, M. (2020). *BYU corpora*. Corpus.Byu.Edu. [https://corpus.byu.edu/overview.asp](https://corpus.byu.edu/overview.asp)
-(https://www.theatlantic.com/politics/archive/2015/01/the-language-of-the-state-of-the-union/384575/)
 - King, L., & Leonard, P. (2020). *Robots Reading Vogue: N-gram Search*. Digital Humanities at Yale University. [http://bookworm.library.yale.edu/](http://bookworm.library.yale.edu/)
 - Schmidt, B. M. (2018, November 6). *Bookworm*. Culturomics. [http://web.archive.org/web/20181106205507/http://bookworm.culturomics.org/](http://web.archive.org/web/20181106205507/http://bookworm.culturomics.org/)
 - Schmidt, B. M. (2020b). *bookworm: Open Library*. Bookworm. [http://benschmidt.org/OL/](http://benschmidt.org/OL/)
