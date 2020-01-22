@@ -124,7 +124,7 @@ Session Leader: Shambhavi
 
 ### Assignments
 1. Gaver, W. W. (1991). Technology affordances. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems Reaching through Technology - CHI ’91*, 79–84. [https://doi.org/10.1145/108844.108856](https://doi.org/10.1145/108844.108856)
-2. Fraas, M., & Schmidt, B. M. (2015, January 18). The Language of the State of the Union. *The Atlantic*. [https://www.theatlantic.com/politics/archive/2015/01/the-language-of-the-state-of-the-union/384575/]
+2. Fraas, M., & Schmidt, B. M. (2015, January 18). The Language of the State of the Union. *The Atlantic*. [https://www.theatlantic.com/politics/archive/2015/01/the-language-of-the-state-of-the-union/384575/](https://www.theatlantic.com/politics/archive/2015/01/the-language-of-the-state-of-the-union/384575/)
 3. Click around Peachnote. (2018). *Peachnote Music Search*. Peachnote. [http://www.peachnote.com](http://www.peachnote.com)
 4. Click around Schmidt, B. M. (2020a). *bookworm: HathiTrust*. HathiTrust Digital Library. [https://bookworm.htrc.illinois.edu/develop/](https://bookworm.htrc.illinois.edu/develop/). Compare against Google Books Ngrams.
 5. Click around Schmidt, B. M. (2015, February). *Gendered Language in Teaching Evaluations*. Gender and Teaching Reviews. [http://benschmidt.org/profGender/](http://benschmidt.org/profGender/)
