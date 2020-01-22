@@ -203,22 +203,21 @@ Session Leader: India
 - 
 
 ### Assignments
-1. Lefevere, F.-M., & Saric, M. (2008). *De-warping of scanned images* (United States Patent No. US7463772B1). [https://patents.google.com/patent/US7463772B1/en](https://patents.google.com/patent/US7463772B1/en)
-2. ??
+1. Conway, P. (2013). Preserving Imperfection: Assessing the Incidence of Digital Imaging Error in HathiTrust. *Preservation, Digital Technology & Culture*, *42*(1), 17–30. [https://doi.org/10.1515/pdtc-2013-0003](https://doi.org/10.1515/pdtc-2013-0003)
+2. Langley, A., & Bloomberg, D. S. (2007). Google Books: Making the public domain universally accessible. (Document Recognition and Retrieval XIV*, *6500*, 65000H. [https://doi.org/10.1117/12.710609](https://doi.org/10.1117/12.710609)
+3. Le Bourgeois, F., Trinh, E., Allier, B., Eglin, V., & Emptoz, H. (2004). Document images analysis solutions for digital libraries. *First International Workshop on Document Image Analysis for Libraries, 2004*. 2–24. [https://doi.org/10.1109/DIAL.2004.1263233](https://doi.org/10.1109/DIAL.2004.1263233). **You need not read this in detail; just understand the gist of each section.**
+4. Lefevere, F.-M., & Saric, M. (2008). *De-warping of scanned images* (United States Patent No. US7463772B1). [https://patents.google.com/patent/US7463772B1/en](https://patents.google.com/patent/US7463772B1/en)
+5. Smith, D. A., & Cordell, R. (2018). *Report: A Research Agenda for Historical and Multilingual Optical Character Recognition – Historical and Multilingual OCR. Northeastern University*. [https://ocr.northeastern.edu/report/](https://ocr.northeastern.edu/report/). **Only read the summary, pages 5-8**.
+6. Tanner, S., Muñoz, T., & Ros, P. H. (2009). Measuring Mass Text Digitization Quality and Usefulness: Lessons Learned from Assessing the OCR Accuracy of the British Library’s 19th Century Online Newspaper Archive. *D-Lib Magazine*, *15*(7/8). [https://doi.org/10.1045/july2009-munoz](https://doi.org/10.1045/july2009-munoz)
+7. Vincent, L. (2007). Google Book Search: Document Understanding on a Massive Scale. *Ninth International Conference on Document Analysis and Recognition (ICDAR 2007)*, *2*, 819–823. [https://doi.org/10.1109/ICDAR.2007.4377029](https://doi.org/10.1109/ICDAR.2007.4377029)
 
 ### Class Activities
 - Possible field trip to scanning facility
 - Seminar
 
 ### Reading Options
-- Conway, P. (2013). Preserving Imperfection: Assessing the Incidence of Digital Imaging Error in HathiTrust. *Preservation, Digital Technology & Culture*, *42*(1), 17–30. [https://doi.org/10.1515/pdtc-2013-0003](https://doi.org/10.1515/pdtc-2013-0003)
 - Huang, T. S. (1974). Digital transmission of halftone pictures. *Computer Graphics and Image Processing*, *3*(3), 195–202. [https://doi.org/10.1016/0146-664X(74)90013-6](https://doi.org/10.1016/0146-664X(74)90013-6)
-- Langley, A., & Bloomberg, D. S. (2007). Google Books: Making the public domain universally accessible. (Document Recognition and Retrieval XIV*, *6500*, 65000H. [https://doi.org/10.1117/12.710609](https://doi.org/10.1117/12.710609)
-- Le Bourgeois, F., Trinh, E., Allier, B., Eglin, V., & Emptoz, H. (2004). Document images analysis solutions for digital libraries. *First International Workshop on Document Image Analysis for Libraries, 2004*. 2–24. [https://doi.org/10.1109/DIAL.2004.1263233](https://doi.org/10.1109/DIAL.2004.1263233)
 - Lefevere, F.-M., & Saric, M. (2009). *Detection of grooves in scanned images* (United States Patent No. US7508978B1). [https://patents.google.com/patent/US7508978B1/en](https://patents.google.com/patent/US7508978B1/en)
-- Smith, D. A., & Cordell, R. (2018). *Report: A Research Agenda for Historical and Multilingual Optical Character Recognition – Historical and Multilingual OCR. Northeastern University*. [https://ocr.northeastern.edu/report/](https://ocr.northeastern.edu/report/)
-- Tanner, S., Muñoz, T., & Ros, P. H. (2009). Measuring Mass Text Digitization Quality and Usefulness: Lessons Learned from Assessing the OCR Accuracy of the British Library’s 19th Century Online Newspaper Archive. *D-Lib Magazine*, *15*(7/8). [https://doi.org/10.1045/july2009-munoz](https://doi.org/10.1045/july2009-munoz)
-- Vincent, L. (2007). Google Book Search: Document Understanding on a Massive Scale. *Ninth International Conference on Document Analysis and Recognition (ICDAR 2007)*, *2*, 819–823. [https://doi.org/10.1109/ICDAR.2007.4377029](https://doi.org/10.1109/ICDAR.2007.4377029)
 
 ## 2/19 - 10. Critiques of Google Books and Ngrams
 Session Leader: Gayathri
@@ -227,19 +226,19 @@ Session Leader: Gayathri
 - 
 
 ### Assignments
-1. 
+1. James, R., & Weiss, A. (2012). An Assessment of Google Books’ Metadata. *Journal of Library Metadata*, *12*(1), 15–22.[ https://doi.org/10.1080/19386389.2012.652566](https://doi.org/10.1080/19386389.2012.652566)
+2. Koplenig, A. (2017). The impact of lacking metadata for the measurement of cultural and linguistic change using the Google Ngram data sets—Reconstructing the composition of the German corpus in times of WWII. *Digital Scholarship in the Humanities*, *32*(1), 169–188.[ https://doi.org/10.1093/llc/fqv037](https://doi.org/10.1093/llc/fqv037)
+3. Pechenick, E. A., Danforth, C. M., & Dodds, P. S. (2015). Characterizing the Google Books Corpus: Strong Limits to Inferences of Socio-Cultural and Linguistic Evolution. *PLOS ONE*, *10*(10), e0137041.[ https://doi.org/10.1371/journal.pone.0137041](https://doi.org/10.1371/journal.pone.0137041)
+4. Pettit, M. (2016). Historical time in the age of big data: Cultural psychology, historical change, and the Google Books Ngram Viewer. *History of Psychology*, *19*(2), 141–153.[ https://doi.org/10.1037/hop0000023](https://doi.org/10.1037/hop0000023)
+
 
 ### Class Activities
 - Seminar
 
 ### Reading Options
 - Duguid, P. (2007). Inheritance and loss? A brief survey of Google Books. *First Monday*, *12*(8).[ https://doi.org/10.5210/fm.v12i8.1972](https://doi.org/10.5210/fm.v12i8.1972)
-- James, R., & Weiss, A. (2012). An Assessment of Google Books’ Metadata. *Journal of Library Metadata*, *12*(1), 15–22.[ https://doi.org/10.1080/19386389.2012.652566](https://doi.org/10.1080/19386389.2012.652566)
-- Koplenig, A. (2017). The impact of lacking metadata for the measurement of cultural and linguistic change using the Google Ngram data sets—Reconstructing the composition of the German corpus in times of WWII. *Digital Scholarship in the Humanities*, *32*(1), 169–188.[ https://doi.org/10.1093/llc/fqv037](https://doi.org/10.1093/llc/fqv037)
 - Morse-Gagné, E. E. (2011). Culturomics: Statistical Traps Muddy the Data. *Science*, *332*(6025), 35.[ https://doi.org/10.1126/science.332.6025.35-b](https://doi.org/10.1126/science.332.6025.35-b)
 - Nunberg, G. (2009, August 29). Language Log » Google Books: A Metadata Train Wreck. *Language Log*.[ https://languagelog.ldc.upenn.edu/nll/?p=1701](https://languagelog.ldc.upenn.edu/nll/?p=1701)
-- Pechenick, E. A., Danforth, C. M., & Dodds, P. S. (2015). Characterizing the Google Books Corpus: Strong Limits to Inferences of Socio-Cultural and Linguistic Evolution. *PLOS ONE*, *10*(10), e0137041.[ https://doi.org/10.1371/journal.pone.0137041](https://doi.org/10.1371/journal.pone.0137041)
-- Pettit, M. (2016). Historical time in the age of big data: Cultural psychology, historical change, and the Google Books Ngram Viewer. *History of Psychology*, *19*(2), 141–153.[ https://doi.org/10.1037/hop0000023](https://doi.org/10.1037/hop0000023)
 
 ## 2/21 - 11. Project Proposals and Presentations
 ### Assignments
@@ -275,16 +274,15 @@ Session Leader: Sabrina
 - 
 
 ### Assignments
-1. 
+1. Bush, V. (1945, July). As We May Think. *The Atlantic Monthly*, *176*(1), 101–108.
+2. Gaboury, J. (2013, April 9). A Queer History of Computing: Part Three. *Rhizome*.[ http://rhizome.org/editorial/2013/apr/09/queer-history-computing-part-three/](http://rhizome.org/editorial/2013/apr/09/queer-history-computing-part-three/)
+3. Light, J. S. (1999). When Computers Were Women. *Technology and Culture*, *40*(3), 455–483.
+4. Terras, M., & Nyhan, J. (2016). Father Busa’s Female Punch Card Operatives. In *Debates in the Digital Humanities 2016*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45](https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45)
 
 ### Class Activities
 - Seminar
 
 ### Reading Options
-- Bush, V. (1945, July). As We May Think. *The Atlantic Monthly*, *176*(1), 101–108.
-- Gaboury, J. (2013, April 9). A Queer History of Computing: Part Three. *Rhizome*.[ http://rhizome.org/editorial/2013/apr/09/queer-history-computing-part-three/](http://rhizome.org/editorial/2013/apr/09/queer-history-computing-part-three/)
-- Light, J. S. (1999). When Computers Were Women. *Technology and Culture*, *40*(3), 455–483.
-- Terras, M., & Nyhan, J. (2016). Father Busa’s Female Punch Card Operatives. In *Debates in the Digital Humanities 2016*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45](https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45)
 - Turing, A. M. (1950). Computing Machinery and Intelligence. *Mind*, *LIX*(236), 433–460.[ https://doi.org/10.1093/mind/LIX.236.433](https://doi.org/10.1093/mind/LIX.236.433)
 
 ## 3/4 - 14. TEI / Encoding Digital Editions
@@ -294,23 +292,23 @@ Session Leader: Jaclyn
 - 
 
 ### Assignments
-1. 
+1. Bishara, H. (2019, November 26). *Official 3D Scans of Nefertiti Bust Are Released After Three-Year Battle*. Hyperallergic.[ https://hyperallergic.com/530400/official-3d-scans-of-nefertiti-bust-are-released-after-three-year-battle/](https://hyperallergic.com/530400/official-3d-scans-of-nefertiti-bust-are-released-after-three-year-battle/)
+2. Conway, P. (2015). Digital transformations and the archival nature of surrogates. *Archival Science*, *15*(1), 51–69.[ https://doi.org/10.1007/s10502-014-9219-z](https://doi.org/10.1007/s10502-014-9219-z)
+3. Nelles, J. & Al-Badri, N. (2015, October). *Nefertiti Hack*.[ http://nefertitihack.alloversky.com/](http://nefertitihack.alloversky.com/)
+4. Region of Peel Archives. (2017, May 31). Why don’t archivists digitize everything? *Archives @ PAMA*.[ https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/)
+5. Voon, C. (2016, February 19). *Artists Covertly Scan Bust of Nefertiti and Release the Data for Free Online*. Hyperallergic.[ https://hyperallergic.com/274635/artists-covertly-scan-bust-of-nefertiti-and-release-the-data-for-free-online/](https://hyperallergic.com/274635/artists-covertly-scan-bust-of-nefertiti-and-release-the-data-for-free-online/)
+6. Weingart, S. B. (2015, November 1). Ghosts in the Machine. *The Scottbot Irregular*.[ http://scottbot.net/ghosts-in-the-machine/](http://scottbot.net/ghosts-in-the-machine/)
+7. Weisberger, M., & 2019. (2019, November 25). Long-Hidden 3D Scan of Ancient Egyptian Nefertiti Bust Finally Revealed. *Livescience.Com*.[ https://www.livescience.com/nefertiti-bust-3d-scan-revealed.html](https://www.livescience.com/nefertiti-bust-3d-scan-revealed.html)
 
 ### Class Activities
 - Seminar
 
 ### Reading Options
-- Bishara, H. (2019, November 26). *Official 3D Scans of Nefertiti Bust Are Released After Three-Year Battle*. Hyperallergic.[ https://hyperallergic.com/530400/official-3d-scans-of-nefertiti-bust-are-released-after-three-year-battle/](https://hyperallergic.com/530400/official-3d-scans-of-nefertiti-bust-are-released-after-three-year-battle/)
 - Bucholtz, M. (2000). The politics of transcription. *Journal of Pragmatics*, *32*(10), 1439–1465.
-- Conway, P. (2015). Digital transformations and the archival nature of surrogates. *Archival Science*, *15*(1), 51–69.[ https://doi.org/10.1007/s10502-014-9219-z](https://doi.org/10.1007/s10502-014-9219-z)
-- Jan Nikolai Nelles, & Nora Al-Badri. (2015, October). *Nefertiti Hack*.[ http://nefertitihack.alloversky.com/](http://nefertitihack.alloversky.com/)
 - Mustonen, A., & Pulkkinen, L. (1997). Television violence: A development of a coding scheme. *Journal of Broadcasting & Electronic Media*, *41*(2), 168–189.[ https://doi.org/10.1080/08838159709364399](https://doi.org/10.1080/08838159709364399)
 - Price, K. M. (2004). Electronic Scholarly Editions. In S. Schreibman, R. Siemens, & J. Unsworth (Eds.), *Companion to Digital Humanities (Blackwell Companions to Literature and Culture)* (Hardcover). Blackwell Publishing Professional.[ http://www.digitalhumanities.org/companion/](http://www.digitalhumanities.org/companion/)
-- Region of Peel Archives. (2017, May 31). Why don’t archivists digitize everything? *Archives @ PAMA*.[ https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/)
 - Ruth Jacobs, S. (2013). Digital Close Reading: TEI for Teaching Poetic Vocabularies. *The Journal of Interactive Technology and Pedagogy*.[ https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/](https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/)
-- Voon, C. (2016, February 19). *Artists Covertly Scan Bust of Nefertiti and Release the Data for Free Online*. Hyperallergic.[ https://hyperallergic.com/274635/artists-covertly-scan-bust-of-nefertiti-and-release-the-data-for-free-online/](https://hyperallergic.com/274635/artists-covertly-scan-bust-of-nefertiti-and-release-the-data-for-free-online/)
-- Weingart, S. B. (2015, November 1). Ghosts in the Machine. *The Scottbot Irregular*.[ http://scottbot.net/ghosts-in-the-machine/](http://scottbot.net/ghosts-in-the-machine/)
-- Weisberger, M., & 2019. (2019, November 25). Long-Hidden 3D Scan of Ancient Egyptian Nefertiti Bust Finally Revealed. *Livescience.Com*.[ https://www.livescience.com/nefertiti-bust-3d-scan-revealed.html](https://www.livescience.com/nefertiti-bust-3d-scan-revealed.html)
+
 
 ## 3/6 - 15. No Class (Mini Finals)
 
