@@ -113,6 +113,7 @@ Session Leader: Jaclyn
 - Google, Inc. (2004, December 14). *What is Google Print?* About Google Print (Beta). [https://web.archive.org/web/20041214092414/http://print.google.com/](https://web.archive.org/web/20041214092414/http://print.google.com/)
 - Jones, E. A. (2014). *Constructing the Universal Library* [Thesis, Washington University]. [https://digital.lib.washington.edu:443/researchworks/handle/1773/26408](https://digital.lib.washington.edu:443/researchworks/handle/1773/26408)
 - Leetaru, K. (2008). Mass book digitization: The deeper story of Google Books and the Open Content Alliance. *First Monday*, *13*(10). [https://doi.org/10.5210/fm.v13i10.2101](https://doi.org/10.5210/fm.v13i10.2101)
+- Mak, B. (2014). Archaeology of a Digitization. *Journal of the Association for Information Science and Technology*. *65*(8). [https://doi.org/10.1002/asi.23061](https://doi.org/10.1002/asi.23061).
 - Murrell, M. (2010). Digital + Library: Mass Book Digitization as Collective Inquiry. *New York Law School Law Review*, *55*, 221. [http://www.nylslawreview.com/wp-content/uploads/sites/16/2013/11/55-1.Murrell.pdf](http://www.nylslawreview.com/wp-content/uploads/sites/16/2013/11/55-1.Murrell.pdf)
 - Wikipedia Editors. (2019). *Million Book Project*. In *Wikipedia*. [https://en.wikipedia.org/w/index.php?title=Million_Book_Project&oldid=932790379](https://en.wikipedia.org/w/index.php?title=Million_Book_Project&oldid=932790379)
 
