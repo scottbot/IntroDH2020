@@ -104,6 +104,8 @@ Session Leader: Jaclyn
 3. Clair, G. S. (2008). The Million Book Project in Relation to Google. *Journal of Library Administration*, *47*(1–2), 151–163. [https://doi.org/10.1080/01930820802111041](https://doi.org/10.1080/01930820802111041)
 4. Gavin, M. (2017). How To Think About EEBO. *Textual Cultures*, *11*(1–2), 70–105. [https://doi.org/10.14434/textual.v11i1-2.23570](https://doi.org/10.14434/textual.v11i1-2.23570)
 5. Click around HathiTrust. HathiTrust Team. (2020). *HathiTrust Digital Library*. HathiTrust Digital Library. [https://www.hathitrust.org/](https://www.hathitrust.org/)
+6. Click around [EEBO-TCP](https://quod.lib.umich.edu/e/eebogroup/).
+7. Click around [EEBO Ngrams Browser](https://earlyprint.wustl.edu/tooleebospellingbrowserv2.html?requestFromClient=%7B%25221%2522:%7B%2522spe%2522:%2522%2522,%2522reg%2522:%2522issue%2522,%2522lem%2522:%2522%2522,%2522pos%2522:%2522%2522,%2522originalPos%2522:%2522%2522%7D,%25222%2522:%7B%2522spe%2522:%2522%2522,%2522reg%2522:%2522%2522,%2522lem%2522:%2522%2522,%2522pos%2522:%2522%2522,%2522originalPos%2522:%2522%2522%7D,%25223%2522:%7B%2522spe%2522:%2522%2522,%2522reg%2522:%2522%2522,%2522lem%2522:%2522%2522,%2522pos%2522:%2522%2522,%2522originalPos%2522:%2522%2522%7D,%2522instructionToggle%2522:%2522hide%2522,%2522databaseType%2522:%2522unigrams%2522,%2522smoothing%2522:%2522True%2522,%2522rollingAverage%2522:%252220_year%2522%7D). 
 
 ### Class Activities
 - Seminar
