@@ -105,7 +105,7 @@ Session Leader: Jaclyn
 4. Gavin, M. (2017). How To Think About EEBO. *Textual Cultures*, *11*(1–2), 70–105. [https://doi.org/10.14434/textual.v11i1-2.23570](https://doi.org/10.14434/textual.v11i1-2.23570)
 5. Click around HathiTrust. HathiTrust Team. (2020). *HathiTrust Digital Library*. HathiTrust Digital Library. [https://www.hathitrust.org/](https://www.hathitrust.org/)
 6. Click around [EEBO-TCP](https://quod.lib.umich.edu/e/eebogroup/).
-7. Click around [EEBO Ngrams Browser](https://earlyprint.org/lab/tool_ngram_browser.html?requestFromClient={%221%22:{%22spe%22:%22love,loue%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22},%222%22:{%22spe%22:%22%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22},%223%22:{%22spe%22:%22%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22},%22databaseType%22:%22unigrams%22,%22smoothing%22:%22True%22,%22rollingAverage%22:%2220_year%22,%20%22instructionToggle%22:%20%22show%22}). 
+7. Click around [EEBO Ngrams Browser](https://earlyprint.org/lab/tool_ngram_browser.html). 
 
 ### Class Activities
 - Seminar
