@@ -48,7 +48,16 @@ Session Leader: Sabrina
 Session Leader: Gayathri
 
 ### Leader Notes
-- 
+- Culturomics is a way to analyze writing to find patterns in that shed light on human behavior and culture trends.
+- We can see how this can shed light on the evolution of grammar, adoption of technology, pursuits of technology, etc…
+- Sharp declines in author’s names of words can mean there was censorship
+- Limitations of google books: (1) contains only 5-6% of all books published, (2) OCR errors
+- ngrams looked at:
+   coffee, tea
+   smelly Indian, smart Indians, smart Whites, entitled Whites
+   burned, burnt
+   cocaine, LSD, heroin, marijuana, meth, opium
+   country, family, God
 
 ### Assignments
 1. Come into class with some fun or interesting Ngram searches completed.
