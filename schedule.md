@@ -105,7 +105,12 @@ Session Leader: India
 Session Leader: Jaclyn
 
 ### Leader Notes
-- 
+-How much was reputation a factor in the inception and process of the UM-Google Cooperative Agreement? 
+- How did “librarian culture” (collectivist, rooted in tradition, egalitarianism,) impact this project, and how to what extent do you think this impacts the broader scope of digitization projects? What might be a reason some librarians are so open to the idea of digitization, while others are not? 
+-From the article, https://bits.blogs.nytimes.com/2008/10/13/an-elephant-backs-up-googles-library/. Do you agree with the commenters about the potential outcomes of this project? 12 years later, has this affected library culture now? 
+-It digitization a tool for librarians, or is going to make librarians obsolete? 
+-(Million Books Project) Journalist Kevin Kelly notes, “The desire of all creators is for their works to find their way into all minds.”He believes there is a moral imperative to scan, and notes that Amazon is busily scanning the four million books in its inventory.” To what extent do you agree or disagree with Kelly? 
+
 
 ### Assignments
 1. Centivany, A. (2017). The Dark History of HathiTrust. *Proceedings of the 50th Hawaii International Conference on System Sciences*, 1–10. [https://ir.lib.uwo.ca/fimspub/120/](https://ir.lib.uwo.ca/fimspub/120/)
