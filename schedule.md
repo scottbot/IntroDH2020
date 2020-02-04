@@ -137,7 +137,26 @@ Session Leader: Jaclyn
 Session Leader: Shambhavi
 
 ### Leader Notes
-- 
+
+- Design Article Questions to Consider: 
+  - What technologies or designs have you interacted with that have high functionality, but low design aesthetic? 
+  - What technologies or designs have you interacted with that have high design aesthetic, but low functionality? 
+  - How can we tie the econological approach to digital humanities? (specifically in corpus engine search design)
+  - In relationship to types of affordances, how are objects designed for active exploration, and how are those types of designs better or worse? In other words, how much responsibility can we put on the user to pay attention to certain details in order to operate an object, and how much responsibility is placed on the designer? 
+  - When designing, are there situations where you can give too much information? How does the user react in these situations and what type of affordances do they typically interact with that stimulate an overwhelming sensation? 
+  
+- State of the Union Article Questions to Consider: 
+  - What are the design/user-interface implications of setting up an interactive chart like so? What works and what doesn't, and more importantly, what type of story is being shared and what information is being ignored/omitted? 
+  - What was the most interesting term and trend that you observed? What surprised you or didn't surprise you? 
+  - When looking at words such as "war", "her", and "currency" what does the trend say about language changing over time? 
+  - What words do you think should have been included into this study? 
+  - Take a look at a similar map that is an interactive design to compare : [https://www.theatlantic.com/politics/archive/2015/01/mapping-the-state-of-the-union/384576/] (https://www.theatlantic.com/politics/archive/2015/01/mapping-the-state-of-the-union/384576/) 
+  
+-Interactive databases (Peachnote/HathiTrust/Gendered Language/BYU corpora) Questions to Consider: 
+  - What was the purpose of each database? 
+  - What was an interesting example/comparision you found? or  What were some common trends that you observed? 
+  - Where there any design interface issues/difficulties? or Where there any technology issues/difficulties? 
+ 
 
 ### Assignments
 1. Gaver, W. W. (1991). Technology affordances. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems Reaching through Technology - CHI ’91*, 79–84. [https://doi.org/10.1145/108844.108856](https://doi.org/10.1145/108844.108856)
