@@ -23,3 +23,7 @@ We started by discussing what is most important to know about your data; the who
 any one is more important than another. I also asked the group if knowing how something works is inharently important to using
 it (like knowing how a texts works to be able to send a text, for example). Talking about the different parts and people needed
 in sending a text led us to conversations about the people, materials, and money involved in building a toaster.
+
+
+Gayathri Response:
+I really enjoyed this session and I thought you did a really good job of discussing it! I liked how we talked about the what vs. why and I think it led to some powerful insights within the realm of collecting data. I also think we had interesting discussions regarding innovation and why we need to learn the inner workings of technology or anything else for that matter.
