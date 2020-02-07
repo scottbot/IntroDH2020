@@ -181,7 +181,22 @@ Session Leader: Shambhavi
 Session Leader: Chloe
 
 ### Leader Notes
-- 
+- Digitizing Labor in the Google Books Project (Andrea Zeffiro)
+  - Thesis: Digital infrastructure and its failure to work, including glitches in its functioning, may prompt reflections about its material origins. “When assembled together, the audiovisual traces, glimmers, residues and specks of the ScanOps produce an archive that is, in effect, a counter-archive to the Google Book Project” (134).
+  - Objective: Unpack the “unintended but valuable consequence of digitizing millions of texts [because this] is the digitization of the process of labor itself” (137).
+  - The audiences is “scholars on all levels” with the hope that they will “reflect on who and what contributes to the material sustenance of our research practices and processes of knowledge production” (148).
+- Producing “one vast index”: Google Book Search as an algorithmic system (Melissa K Chalmers and Paul N Edwards)
+  - Thesis: “Here we take a new tack, arguing that Google’s approach to digitization was shaped by a confluence of technical and cultural factors that must be understood together” (2).
+  - “Algorithmic digitization” is proposed in order to describe Google’s commitment to scale, standardization processes, and automation, which beyond scaling up Google’s algorithmic digitization effort, in fact has the effect of “reimagining” the intended outcomes of their project as well as “contributing important implications for mediating digital access to print books” (2).
+  - Objective: Examine the ways that labor, partnerships, goals, and algorithms contribute to seeing books as data and objects for searching and discovery rather than simply reading. “This project seeks to join an existing critique oriented toward material culture and labor process with an emerging critique of algorithmic culture. ‘Algorithmic digitization’ thus serves us as a sensitizing concept emphasizing relationships between inputs, materials, labor, processes, outputs, use, and users. We use it here to consider opportunities and limitations in Google’s approach to providing universal access to information” (13).
+  - The audience is a wide variety of scholars and readers, especially those in information science and studies.
+
+- Questions:
+- Before learning about Google’s secret book scanning process, did you have a preconceived idea of how the scanning process worked? Did it involve machines or human labor?
+- Google imagines information from books as necessarily searchable and discoverable rather than readable. What might this orientation towards digitized books mean for a searcher or researcher?
+- What do we think the stakes are for the “lost” information through Google’s digitization process (such as the physical size, weight, color, texture, or structure of a book?)
+- What about information “gained” such as Google’s logo as an embedded trace, or perhaps other material traces such as fingers digitized over the text?
+- For people interested in history, anthropology, literary studies, cultural studies, or other fields, why might visiting physical archives with analog books be important even though the textual information may be digitized and accessible online?
 
 ### Assignments
 1. Chalmers, M. K., & Edwards, P. N. (2017). Producing “one vast index”: Google Book Search as an algorithmic system. *Big Data & Society*, *4*(2), 2053951717716950. [https://doi.org/10.1177/2053951717716950](https://doi.org/10.1177/2053951717716950)
