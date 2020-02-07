@@ -167,8 +167,7 @@ Session Leader: Shambhavi
 6. Click around Davies, M. (2020). *BYU corpora*. Corpus.Byu.Edu. [https://corpus.byu.edu/overview.asp](https://corpus.byu.edu/overview.asp)
 
 ### Class Activities
-- Learn BYU Corpus exploration environments.
-- Learn Voyant Tools.
+- Spend 20 minutes coming up with interesting things to say with Voyant, in groups
 - Seminar
 
 ### Reading Options
