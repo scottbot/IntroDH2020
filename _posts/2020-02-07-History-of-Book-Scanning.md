@@ -3,13 +3,10 @@ layout: post
 title: "History of Book Scanning and Google Books"
 author: "Jaclyn Saik"
 ---
-Date of Class: 1/31
-
-First due: 2/7
-
-Comments due: 2/14
-
-Revisions due: 2/21
+- Date of Class: 1/31
+- First due: 2/7
+- Comments due: 2/14
+- Revisions due: 2/21
 
 During this seminar, we discussed the history of Book Scanning and Google Books. 
 
