@@ -3,13 +3,10 @@ layout: post
 title: "Conducting a Deep Dive Blog Post"
 author: "Sabrina Browne"
 ---
-Date of Class: 1/22
-
-First due: 1/29
-
-Comments due: 2/5
-
-Revisions due: 2/12
+- Date of Class: 1/22
+- First due: 1/29
+- Comments due: 2/5
+- Revisions due: 2/12
 
 Readings:
 - Krause, H. (2017, March 27). Data Biographies: Getting to Know Your Data. Global Investigative Journalism Network.
