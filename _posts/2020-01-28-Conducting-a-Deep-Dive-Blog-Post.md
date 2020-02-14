@@ -3,16 +3,20 @@ layout: post
 title: "Conducting a Deep Dive Blog Post"
 author: "Sabrina Browne"
 ---
+Date of Class: 1/22
+
+First due: 1/29
+
+Comments due: 2/5
+
+Revisions due: 2/12
 
 Readings:
-
-Krause, H. (2017, March 27). Data Biographies: Getting to Know Your Data. Global Investigative Journalism Network.
+- Krause, H. (2017, March 27). Data Biographies: Getting to Know Your Data. Global Investigative Journalism Network.
 https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/
-
-Thwaites, T. (2011). The Toaster Project: Or a Heroic Attempt to Build a Simple Electric Appliance from Scratch. 
+- Thwaites, T. (2011). The Toaster Project: Or a Heroic Attempt to Build a Simple Electric Appliance from Scratch. 
 Princeton Architectural Press.
-
-Weingart, S. B. (2019, February 22). The Route of a Text Message, a Love Story. Vice. 
+- Weingart, S. B. (2019, February 22). The Route of a Text Message, a Love Story. Vice. 
 https://www.vice.com/en_us/article/kzdn8n/the-route-of-a-text-message-a-love-story
 
 
