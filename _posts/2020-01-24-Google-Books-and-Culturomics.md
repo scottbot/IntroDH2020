@@ -3,6 +3,8 @@ layout: post
 title: "Google Books and Culturomics"
 author: "Gayathri Manchella"
 ---
+Date of Class: 1/24
+
 First due: 1/31
 
 Comments due: 2/7
