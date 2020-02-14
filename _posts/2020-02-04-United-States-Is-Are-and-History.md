@@ -3,6 +3,13 @@ layout: post
 title: "United States Is/Are and American History"
 author: "India Unger-Harquail"
 ---
+Date of Class: 1/29
+
+First due: 2/5
+
+Comments due: 2/12
+
+Revisions due: 2/19
 
 In this class, we discussed the history of the United States, and where the concept of ‘is/are’ came from.
 
