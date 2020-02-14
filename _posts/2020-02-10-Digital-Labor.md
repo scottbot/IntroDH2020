@@ -3,6 +3,10 @@ layout: post
 title: Digital Labor
 author: Chloe Perry
 ---
+- Date of Class: 2/7
+- First due: 2/14
+- Comments due: 2/21
+- Revisions due: 2/28
 
 This class discussion focused on Digital Labor, specifically the labor associated with the massive yet cyptic Google Books project that we've touched on in previous classes.
 
