@@ -12,7 +12,7 @@ In this class, we discussed the history of the United States, and where the conc
 
 To start the class, we discussed a few interesting examples of ‘is’ or ‘are’ usage that we’d found by exploring Google n-grams. Some of those examples included:
 
-[Jaclyn's favorite, "because it contradicts itself within the same text"] (https://www.google.com/books/edition/The_Traveller_s_Guide_Or_Pocket_Gazettee/cdgD3TMVe0kC?hl=en&gbpv=1&dq=%22the+united+states+are%22&pg=PA4&printsec=frontcover)
+[Jaclyn's favorite, "because it contradicts itself within the same text"](https://www.google.com/books/edition/The_Traveller_s_Guide_Or_Pocket_Gazettee/cdgD3TMVe0kC?hl=en&gbpv=1&dq=%22the+united+states+are%22&pg=PA4&printsec=frontcover)
 
 [1838: ‘Political Grammar of the US’ book has “US are…”](https://books.google.com/books?id=ORJAAAAAYAAJ&pg=PA231&dq=%22the+united+states+are%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwipjfGx46fnAhV9mXIEHZWhDx8Q6AEwAnoECAUQAg#v=onepage&q=%22the%20united%20states%20are%22&f=false)
 
