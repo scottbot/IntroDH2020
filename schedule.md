@@ -302,7 +302,7 @@ Session Leader: ??
 - 
 
 ### Assignments
-1. 
+1. No readings for today, congratulations!
 
 ### Class Activities
 - Project choice made
