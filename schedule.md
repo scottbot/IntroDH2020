@@ -325,7 +325,7 @@ Session Leader: Sabrina
 1. Bush, V. (1945, July). As We May Think. *The Atlantic Monthly*, *176*(1), 101–108.
 2. Gaboury, J. (2013, April 9). A Queer History of Computing: Part Three. *Rhizome*.[ http://rhizome.org/editorial/2013/apr/09/queer-history-computing-part-three/](http://rhizome.org/editorial/2013/apr/09/queer-history-computing-part-three/)
 3. Light, J. S. (1999). When Computers Were Women. *Technology and Culture*, *40*(3), 455–483.
-4. Terras, M., & Nyhan, J. (2016). Father Busa’s Female Punch Card Operatives. In *Debates in the Digital Humanities 2016*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45](https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45)
+4. Terras, M., & Nyhan, J. (2016). Father Busa’s Female Punch Card Operatives. In *Debates in the Digital Humanities 2016*. University Of Minnesota Press.[https://dhdebates.gc.cuny.edu/read/untitled/section/1e57217b-f262-4f25-806b-4fcf1548beb5](https://dhdebates.gc.cuny.edu/read/untitled/section/1e57217b-f262-4f25-806b-4fcf1548beb5)
 
 ### Class Activities
 - Seminar
