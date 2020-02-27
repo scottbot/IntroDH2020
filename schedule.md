@@ -319,7 +319,22 @@ Session Leader: ??
 Session Leader: Sabrina
 
 ### Leader Notes
-- 
+- Pre-discussion question: does anyone know where the term "computer" came from?
+  - The term "computer" originally referred to a person, usually a woman, who would enter data, complete calculations, etc. Thruoughout history, women have been behind major achievements and advancements in many fields. 
+  - Women were believed to be more careful than men and employers could pay women less (especially women of color)
+  - https://twitter.com/yungaccident/status/1232147792942043136
+- As We May Think
+- A Queer History of Computing
+  - "In his biography of Alan Turing, Andrew Hodges writes of the love letter generator, that '[t]hose doing real men’s jobs on the computer, concerned with optics or aerodynamics, thought [it] silly, but [...] it greatly amused Alan and Christopher.'"
+    - Implies that Alan and Cristopher weren't doing "real men's jobs on the computer"
+    - Is the love letter generator considered to be a bigger feat in art or (computer) science?
+- When Computers Were Women
+- Female Punch Card Operatives
+  - "poetical science" - when a straight man makes it it's science, but if a woman/homosexual makes it then it's art
+  - Busa chose women, specifically women who were unfamiliar with Latin, because he believed that they would be more careful than men (especially men familiar with Latin)
+  - Do the opportunities/success this project brought for these women make up for the fact that they recieved no credit?
+    - The women recieved training and job experience; "industries wanted to hire them before they had finished the program." ... "they secured excellent jobs once they had completed the course, and often before."
+    - Were you surprised to learn that companies were not just willing, but eager to hire women?
 
 ### Assignments
 1. Bush, V. (1945, July). As We May Think. *The Atlantic Monthly*, *176*(1), 101–108.
