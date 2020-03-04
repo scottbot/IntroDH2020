@@ -398,22 +398,22 @@ Session Leader: Gayathri
 - 
 
 ### Assignments
-1. 
+1. Bentley, R. A., Acerbi, A., Ormerod, P., & Lampos, V. (2014). Books Average Previous Decade of Economic Misery. *PLoS ONE*, *9*(1), e83147.[ https://doi.org/10.1371/journal.pone.0083147](https://doi.org/10.1371/journal.pone.0083147)
+2. Guldi, J. (2012). The History of Walking and the Digital Turn: Stride and Lounge in London, 1808–1851. *The Journal of Modern History*, *84*(1), 116–144.[ https://doi.org/10.1086/663350](https://doi.org/10.1086/663350)
+3. Kumar, N., & Sahu, M. (2011). The Evolution of Marketing History: A Peek Through Google Ngram Viewer. *Asian Journal of Management Research*, *1*(2), 415–426.
+4. Rosenberg, D. (2013). Data Before the Fact. In *"Raw Data" Is an Oxymoron*. MITP.[ https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6462156](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6462156)
+5. Twenge, J. M., Campbell, W. K., & Gentile, B. (2012a). Male and Female Pronoun Use in U.S. Books Reflects Women’s Status, 1900–2008. *Sex Roles*, 1–6.[ https://doi.org/10.1007/s11199-012-0194-7](https://doi.org/10.1007/s11199-012-0194-7)
+
 
 ### Class Activities
 - Seminar
 
 ### Reading Options
-- Bentley, R. A., Acerbi, A., Ormerod, P., & Lampos, V. (2014). Books Average Previous Decade of Economic Misery. *PLoS ONE*, *9*(1), e83147.[ https://doi.org/10.1371/journal.pone.0083147](https://doi.org/10.1371/journal.pone.0083147)
 - Gibbs, F. W., & Cohen, D. J. (2011). A Conversation with Data: Prospecting Victorian Words and Ideas. *Victorian Studies*, *54*(1), 69–77.[ https://doi.org/10.2979/victorianstudies.54.1.69](https://doi.org/10.2979/victorianstudies.54.1.69)
-- Guldi, J. (2012). The History of Walking and the Digital Turn: Stride and Lounge in London, 1808–1851. *The Journal of Modern History*, *84*(1), 116–144.[ https://doi.org/10.1086/663350](https://doi.org/10.1086/663350)
 - Kesebir, P., & Kesebir, S. (2012). The Cultural Salience of Moral Character and Virtue Declined in Twentieth Century America. *SSRN ELibrary*.[ http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2120724](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2120724)
 - Kochan, D. J. (2011). While Effusive, "Conclusory" Is Still Quite Elusive: The Story of a Word, Iqbal, and a Perplexing Lexical Inquiry of Supreme Importance. *University of Pittsburgh Law Review*, *73*, forthcoming.
-- Kumar, N., & Sahu, M. (2011). The Evolution of Marketing History: A Peek Through Google Ngram Viewer. *Asian Journal of Management Research*, *1*(2), 415–426.
 - Nicholls, N. (2012). Long-term changes in the usage of climate and weather words. *Weather*, *67*(7), 171–174.[ https://doi.org/10.1002/wea.1924](https://doi.org/10.1002/wea.1924)
 - Nicholson, B. (2012). Counting Culture; or, How to Read Victorian Newspapers from a Distance. *Journal of Victorian Culture*, *17*(2), 238–246.[ https://doi.org/10.1080/13555502.2012.683331](https://doi.org/10.1080/13555502.2012.683331)
-- Rosenberg, D. (2013). Data Before the Fact. In *"Raw Data" Is an Oxymoron*. MITP.[ https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6462156](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6462156)
-- Twenge, J. M., Campbell, W. K., & Gentile, B. (2012a). Male and Female Pronoun Use in U.S. Books Reflects Women’s Status, 1900–2008. *Sex Roles*, 1–6.[ https://doi.org/10.1007/s11199-012-0194-7](https://doi.org/10.1007/s11199-012-0194-7)
 - Twenge, J. M., Campbell, W. K., & Gentile, B. (2012b). Increases in Individualistic Words and Phrases in American Books, 1960–2008. *PLoS ONE*, *7*(7), e40181.[ https://doi.org/10.1371/journal.pone.0040181](https://doi.org/10.1371/journal.pone.0040181)
 - Twenge, J. M., Campbell, W. K., & Gentile, B. (2012c). Changes in Pronoun Use in American Books and the Rise of Individualism, 1960-2008. *Journal of Cross-Cultural Psychology*.[ https://doi.org/10.1177/0022022112455100](https://doi.org/10.1177/0022022112455100)
 
