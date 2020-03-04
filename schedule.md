@@ -379,18 +379,17 @@ Session Leader: Gayathri
 - 
 
 ### Assignments
-1. 
+1. Garcia, E. (2016). *The Classic TF-IDF Vector Space Model*. miislita.com. 
+2. Gavin, M., Jennings, C., Kersey, L., & Pasanek, B. M. (2019). Spaces of Meaning: Conceptual History, Vector Semantics, and Close Reading. In *Debates in the Digital Humanities 2019*. University Of Minnesota Press.[https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4ce82b33-120f-423f-ba4c-40620913b305](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4ce82b33-120f-423f-ba4c-40620913b305).
+3. Jurafsky, D., & Martin, J. H. (2019). Vector Semantics and Embeddings. In *Speech and Language Processing* (3rd ed.).[ https://web.stanford.edu/~jurafsky/slp3/](https://web.stanford.edu/~jurafsky/slp3/). **up through section 6.6**
+4. Underwood, T. (2015, June 4). Seven ways humanists are using computers to understand text. *The Stone and the Shell*.[ https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
+5. Wikipedia Editors. (2018). Document-term matrix. In *Wikipedia*.[ https://en.wikipedia.org/w/index.php?title=Document-term_matrix&oldid=841158065](https://en.wikipedia.org/w/index.php?title=Document-term_matrix&oldid=841158065)
 
 ### Class Activities
 - Seminar
 
 ### Reading Options
-- Garcia, E. (2016). *The Classic TF-IDF Vector Space Model*. miislita.com.
-- Gavin, M., Jennings, C., Kersey, L., & Pasanek, B. M. (2019). Spaces of Meaning: Conceptual History, Vector Semantics, and Close Reading. In *Debates in the Digital Humanities 2019*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4ce82b33-120f-423f-ba4c-40620913b305#ch21](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4ce82b33-120f-423f-ba4c-40620913b305#ch21)
-- Jurafsky, D., & Martin, J. H. (2019). Vector Semantics and Embeddings. In *Speech and Language Processing* (3rd ed.).[ https://web.stanford.edu/~jurafsky/slp3/](https://web.stanford.edu/~jurafsky/slp3/)
 - Turney, P. D., & Pantel, P. (2010). From Frequency to Meaning: Vector Space Models of Semantics. *Journal of Artificial Intelligence Research*, *37*, 141–188.[ https://doi.org/10.1613/jair.2934](https://doi.org/10.1613/jair.2934)
-- Underwood, T. (2015, June 4). Seven ways humanists are using computers to understand text. *The Stone and the Shell*.[ https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
-- Wikipedia Editors. (2018). Document-term matrix. In *Wikipedia*.[ https://en.wikipedia.org/w/index.php?title=Document-term_matrix&oldid=841158065](https://en.wikipedia.org/w/index.php?title=Document-term_matrix&oldid=841158065)
 
 ## 3/25 - 20. Ngrams as Analysis
 Session Leader: Gayathri
