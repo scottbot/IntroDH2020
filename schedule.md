@@ -349,30 +349,10 @@ Session Leader: Sabrina
 ### Reading Options
 - Turing, A. M. (1950). Computing Machinery and Intelligence. *Mind*, *LIX*(236), 433–460.[ https://doi.org/10.1093/mind/LIX.236.433](https://doi.org/10.1093/mind/LIX.236.433)
 
-## 3/4 - 14. TEI / Encoding Digital Editions
-Session Leader: Jaclyn
-
-### Leader Notes
-- 
-
-### Assignments
-1. Bishara, H. (2019, November 26). *Official 3D Scans of Nefertiti Bust Are Released After Three-Year Battle*. Hyperallergic.[ https://hyperallergic.com/530400/official-3d-scans-of-nefertiti-bust-are-released-after-three-year-battle/](https://hyperallergic.com/530400/official-3d-scans-of-nefertiti-bust-are-released-after-three-year-battle/)
-2. Conway, P. (2015). Digital transformations and the archival nature of surrogates. *Archival Science*, *15*(1), 51–69.[ https://doi.org/10.1007/s10502-014-9219-z](https://doi.org/10.1007/s10502-014-9219-z)
-3. Nelles, J. & Al-Badri, N. (2015, October). *Nefertiti Hack*.[ http://nefertitihack.alloversky.com/](http://nefertitihack.alloversky.com/)
-4. Region of Peel Archives. (2017, May 31). Why don’t archivists digitize everything? *Archives @ PAMA*.[ https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/)
-5. Voon, C. (2016, February 19). *Artists Covertly Scan Bust of Nefertiti and Release the Data for Free Online*. Hyperallergic.[ https://hyperallergic.com/274635/artists-covertly-scan-bust-of-nefertiti-and-release-the-data-for-free-online/](https://hyperallergic.com/274635/artists-covertly-scan-bust-of-nefertiti-and-release-the-data-for-free-online/)
-6. Weingart, S. B. (2015, November 1). Ghosts in the Machine. *The Scottbot Irregular*.[ http://scottbot.net/ghosts-in-the-machine/](http://scottbot.net/ghosts-in-the-machine/)
-7. Weisberger, M., & 2019. (2019, November 25). Long-Hidden 3D Scan of Ancient Egyptian Nefertiti Bust Finally Revealed. *Livescience.Com*.[ https://www.livescience.com/nefertiti-bust-3d-scan-revealed.html](https://www.livescience.com/nefertiti-bust-3d-scan-revealed.html)
+## 3/4 - 14. Project Planning
 
 ### Class Activities
-- Seminar
-
-### Reading Options
-- Bucholtz, M. (2000). The politics of transcription. *Journal of Pragmatics*, *32*(10), 1439–1465.
-- Mustonen, A., & Pulkkinen, L. (1997). Television violence: A development of a coding scheme. *Journal of Broadcasting & Electronic Media*, *41*(2), 168–189.[ https://doi.org/10.1080/08838159709364399](https://doi.org/10.1080/08838159709364399)
-- Price, K. M. (2004). Electronic Scholarly Editions. In S. Schreibman, R. Siemens, & J. Unsworth (Eds.), *Companion to Digital Humanities (Blackwell Companions to Literature and Culture)* (Hardcover). Blackwell Publishing Professional.[ http://www.digitalhumanities.org/companion/](http://www.digitalhumanities.org/companion/)
-- Ruth Jacobs, S. (2013). Digital Close Reading: TEI for Teaching Poetic Vocabularies. *The Journal of Interactive Technology and Pedagogy*.[ https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/](https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/)
-
+- Plan Final Project
 
 ## 3/6 - 15. No Class (Mini Finals)
 
@@ -505,7 +485,31 @@ Session Leader: India
 - Underwood, T., Bamman, D., & Lee, S. (2018). The Transformation of Gender in English-Language Fiction. *Cultural Analytics*.[ https://hcommons.org/deposits/item/hc:18127/](https://hcommons.org/deposits/item/hc:18127/)
 - Weingart, S. B. (2017, July 26). Argument Clinic. *The Scottbot Irregular*.[ https://scottbot.net/argument-clinic/](https://scottbot.net/argument-clinic/)
 
-## 4/8 - 24. Genealogies of Distant Reading
+## 4/8 - 24. TEI / Encoding Digital Editions
+Session Leader: Jaclyn
+
+### Leader Notes
+- 
+
+### Assignments
+1. Bishara, H. (2019, November 26). *Official 3D Scans of Nefertiti Bust Are Released After Three-Year Battle*. Hyperallergic.[ https://hyperallergic.com/530400/official-3d-scans-of-nefertiti-bust-are-released-after-three-year-battle/](https://hyperallergic.com/530400/official-3d-scans-of-nefertiti-bust-are-released-after-three-year-battle/)
+2. Conway, P. (2015). Digital transformations and the archival nature of surrogates. *Archival Science*, *15*(1), 51–69.[ https://doi.org/10.1007/s10502-014-9219-z](https://doi.org/10.1007/s10502-014-9219-z)
+3. Nelles, J. & Al-Badri, N. (2015, October). *Nefertiti Hack*.[ http://nefertitihack.alloversky.com/](http://nefertitihack.alloversky.com/)
+4. Region of Peel Archives. (2017, May 31). Why don’t archivists digitize everything? *Archives @ PAMA*.[ https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/)
+5. Voon, C. (2016, February 19). *Artists Covertly Scan Bust of Nefertiti and Release the Data for Free Online*. Hyperallergic.[ https://hyperallergic.com/274635/artists-covertly-scan-bust-of-nefertiti-and-release-the-data-for-free-online/](https://hyperallergic.com/274635/artists-covertly-scan-bust-of-nefertiti-and-release-the-data-for-free-online/)
+6. Weingart, S. B. (2015, November 1). Ghosts in the Machine. *The Scottbot Irregular*.[ http://scottbot.net/ghosts-in-the-machine/](http://scottbot.net/ghosts-in-the-machine/)
+7. Weisberger, M., & 2019. (2019, November 25). Long-Hidden 3D Scan of Ancient Egyptian Nefertiti Bust Finally Revealed. *Livescience.Com*.[ https://www.livescience.com/nefertiti-bust-3d-scan-revealed.html](https://www.livescience.com/nefertiti-bust-3d-scan-revealed.html)
+
+### Class Activities
+- Seminar
+
+### Reading Options
+- Bucholtz, M. (2000). The politics of transcription. *Journal of Pragmatics*, *32*(10), 1439–1465.
+- Mustonen, A., & Pulkkinen, L. (1997). Television violence: A development of a coding scheme. *Journal of Broadcasting & Electronic Media*, *41*(2), 168–189.[ https://doi.org/10.1080/08838159709364399](https://doi.org/10.1080/08838159709364399)
+- Price, K. M. (2004). Electronic Scholarly Editions. In S. Schreibman, R. Siemens, & J. Unsworth (Eds.), *Companion to Digital Humanities (Blackwell Companions to Literature and Culture)* (Hardcover). Blackwell Publishing Professional.[ http://www.digitalhumanities.org/companion/](http://www.digitalhumanities.org/companion/)
+- Ruth Jacobs, S. (2013). Digital Close Reading: TEI for Teaching Poetic Vocabularies. *The Journal of Interactive Technology and Pedagogy*.[ https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/](https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/)
+
+## 4/10 - 25. Genealogies of Distant Reading
 Session Leader: Chloe
 
 ### Leader Notes
@@ -528,34 +532,6 @@ Session Leader: Chloe
 - Mosteller, F., & Wallace, D. L. (1963). Inference in an Authorship Problem. *Journal of the American Statistical Association*, *58*(302), 275–309.[ https://doi.org/10.1080/01621459.1963.10500849](https://doi.org/10.1080/01621459.1963.10500849)
 - Underwood, T. (2016). Distant Reading and Recent Intellectual History. In *Debates in the Digital Humanities 2016*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled/section/3b96956c-aab2-4037-9894-dc4ff9aa1ec5#ch44](https://dhdebates.gc.cuny.edu/read/untitled/section/3b96956c-aab2-4037-9894-dc4ff9aa1ec5#ch44)
 - Underwood, T. (2017). A Genealogy of Distant Reading. *Digital Humanities Quarterly*, *11*(2).[ http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html)
-
-## 4/10 - 25. Cliometrics and Digital History
-Session Leader: India
-
-### Leader Notes
-- 
-
-### Assignments
-1. 
-
-### Class Activities
-- Seminar
-
-### Reading Options
-- Arguing with Digital History working group. (2017). *Digital History and Argument* (p. 30) [White Paper]. George Mason University.[ https://rrchnm.org/argument-white-paper/](https://rrchnm.org/argument-white-paper/)
-- Blevins, C. (2016). Digital History’s Perpetual Future Tense. In M. K. Gold & L. F. Klein (Eds.), *Debates in the Digital Humanities: Vol. Debates in the Digital Humanities 2016*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled/section/4555da10-0561-42c1-9e34-112f0695f523](https://dhdebates.gc.cuny.edu/read/untitled/section/4555da10-0561-42c1-9e34-112f0695f523)
-- Braudel, F., & Wallerstein, I. (2009). History and the Social Sciences: The Longue Durée. *Review (Fernand Braudel Center)*, *32*(2), 171–203.
-- Gibbs, F. W. (2016). New Forms of History: Critiquing Data and Its Representations. *The American Historian*.[ https://www.oah.org/tah/issues/2016/february/new-forms-of-history-critiquing-data-and-its-representations/](https://www.oah.org/tah/issues/2016/february/new-forms-of-history-critiquing-data-and-its-representations/)
-- Goldin, C. (1995). Cliometrics and the Nobel. *The Journal of Economic Perspectives*, *9*(2), 191–208.
-- Hedley, A., & Kooistra, L. J. (2018). Prototyping Personography for The Yellow Nineties Online Queering and Querying History in the Digital Age. In J. Wernimont & E. Losh, *Bodies of Information*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/8e224811-5779-4444-9dbf-011f71cb1d4b#ch10](https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/8e224811-5779-4444-9dbf-011f71cb1d4b#ch10)
-- Leon, S. (2016, March 7). Returning Women to the History of Digital History. *[Bracket]*.[ https://www.6floors.org/bracket/2016/03/07/returning-women-to-the-history-of-digital-history/](https://www.6floors.org/bracket/2016/03/07/returning-women-to-the-history-of-digital-history/)
-- Leon, S. (2018). Complicating a "Great Man" Narrative of Digital History in the United States. In J. Wernimont & E. Losh, *Bodies of Information*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/8e224811-5779-4444-9dbf-011f71cb1d4b#ch10](https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/8e224811-5779-4444-9dbf-011f71cb1d4b#ch10)
-- Leon, S. (2019, November 24). The Peril and Promise of Historians as Data Creators: Perspective, Structure, and the Problem of Representation. *[Bracket]*.[ http://www.6floors.org/bracket/2019/11/24/the-peril-and-promise-of-historians-as-data-creators-perspective-structure-and-the-problem-of-representation/](http://www.6floors.org/bracket/2019/11/24/the-peril-and-promise-of-historians-as-data-creators-perspective-structure-and-the-problem-of-representation/)
-- Merry, M. (2015). *Designing Databases for Historical Research: Contents*. PORT School of Advanced Study University of London.[ https://port.sas.ac.uk/mod/book/view.php?id=75&chapterid=124](https://port.sas.ac.uk/mod/book/view.php?id=75&chapterid=124)
-- Milligan, I. (2012). Mining the ‘Internet Graveyard’: Rethinking the Historians’ Toolkit. *Journal of the Canadian Historical Association / Revue de La Société Historique Du Canada*, *23*(2), 21–64.[ https://doi.org/10.7202/1015788ar](https://doi.org/10.7202/1015788ar)
-- Roberston, S. (2014, May 23). The Differences between Digital History and Digital Humanities. *Dr Stephen Robertson*.[ http://drstephenrobertson.com/blog-post/the-differences-between-digital-history-and-digital-humanities/](http://drstephenrobertson.com/blog-post/the-differences-between-digital-history-and-digital-humanities/)
-- Rosenzweig, R. (2003). Scarcity or Abundance? Preserving the Past in a Digital Era. *The American Historical Review*, *108*(3), 735–762.[ https://doi.org/10.1086/ahr/108.3.735](https://doi.org/10.1086/ahr/108.3.735)
-- Weingart, S. B. (2016, May 2). "Digital History" Can Never Be New. *The Scottbot Irregular*.[ http://scottbot.net/digital-history-can-never-be-new/](http://scottbot.net/digital-history-can-never-be-new/)
 
 ## 4/15 - 26. Digital Source Criticism
 Session Leader: Jaclyn
