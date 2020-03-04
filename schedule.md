@@ -468,19 +468,19 @@ Session Leader: India
 - 
 
 ### Assignments
-1. 
+1. Heuser, R., & Le-Khac, L. (2012). *A Quantitative Literary History of 2,958 Nineteenth-Century British Novels: The Semantic Cohort Method* (No. 4; Stanford Literary Lab Pamphlets). Stanford.[ https://litlab.stanford.edu/LiteraryLabPamphlet4.pdf](https://litlab.stanford.edu/LiteraryLabPamphlet4.pdf)
+2. Underwood, T., Bamman, D., & Lee, S. (2018). The Transformation of Gender in English-Language Fiction. *Cultural Analytics*.[ https://hcommons.org/deposits/item/hc:18127/](https://hcommons.org/deposits/item/hc:18127/)
+
 
 ### Class Activities
 - Seminar
 
 ### Reading Options
-- Gibbs, F. W., & Owens, T. J. (2012). The Hermeneutics of Data and Historical Writing. In J. Dougherty & K. Nawrotzki (Eds.), *Writing History in the Digital Age* (web-book edition). University of Michigan Press.[ http://WritingHistory.trincoll.edu](http://WritingHistory.trincoll.edu)
-- Heuser, R., & Le-Khac, L. (2012). *A Quantitative Literary History of 2,958 Nineteenth-Century British Novels: The Semantic Cohort Method* (No. 4; Stanford Literary Lab Pamphlets). Stanford.[ https://litlab.stanford.edu/LiteraryLabPamphlet4.pdf](https://litlab.stanford.edu/LiteraryLabPamphlet4.pdf)
-- Hoover, D. L. (2016). Argument, Evidence, and the Limits of Digital Literary Studies. In *Debates in the Digital Humanities 2016*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45](https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45)
+- Gibbs, F. W., & Owens, T. J. (2012). The Hermeneutics of Data and Historical Writing. In J. Dougherty & K. Nawrotzki (Eds.), *Writing History in the Digital Age* (web-book edition). University of Michigan Press.[https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:7/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#7.3](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:7/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#7.3)
+- Hoover, D. L. (2016). Argument, Evidence, and the Limits of Digital Literary Studies. In *Debates in the Digital Humanities 2016*. University Of Minnesota Press.[https://dhdebates.gc.cuny.edu/read/untitled/section/70f5261e-e268-4f56-928f-0c4ea30d254d](https://dhdebates.gc.cuny.edu/read/untitled/section/70f5261e-e268-4f56-928f-0c4ea30d254d)
 - Long, H., & So, R. J. (2016). Literary Pattern Recognition: Modernism between Close Reading and Machine Learning. *Critical Inquiry*, *42*(2), 235–267.[ https://doi.org/10.1086/684353](https://doi.org/10.1086/684353)
 - Sculley, D., & Pasanek, B. M. (2008). Meaning and mining: The impact of implicit assumptions in data mining for the humanities. *Literary and Linguistic Computing*, *23*(4), 409–424.[ https://doi.org/10.1093/llc/fqn019](https://doi.org/10.1093/llc/fqn019)
 - Underwood, T. (2014). Theorizing Research Practices We Forgot to Theorize Twenty Years Ago. *Representations*, *127*(1), 64–72.[ https://doi.org/10.1525/rep.2014.127.1.64](https://doi.org/10.1525/rep.2014.127.1.64)
-- Underwood, T., Bamman, D., & Lee, S. (2018). The Transformation of Gender in English-Language Fiction. *Cultural Analytics*.[ https://hcommons.org/deposits/item/hc:18127/](https://hcommons.org/deposits/item/hc:18127/)
 - Weingart, S. B. (2017, July 26). Argument Clinic. *The Scottbot Irregular*.[ https://scottbot.net/argument-clinic/](https://scottbot.net/argument-clinic/)
 
 ## 4/8 - 24. TEI / Encoding Digital Editions
