@@ -449,18 +449,17 @@ Session Leader: Shamhbavi
 - 
 
 ### Assignments
-1. 
+1. Andersen, J. W. (1989). Unobtrusive measures. In P. Emmert & L. L. Barker (Eds.), *Measurement of communication behavior* (pp. 249–266). Longman. **up through page 9, the first chapter.**
+2. Jick, T. D. (1979). Mixing Qualitative and Quantitative Methods: Triangulation in Action. *Administrative Science Quarterly*, *24*(4), 602–611.[ https://doi.org/10.2307/2392366](https://doi.org/10.2307/2392366)
+3. Lincoln, M. D. (2015, March 21). Confabulation in the humanities. *Matthew Lincoln, PhD*.[ https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html](https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html)
+4. Mullen, L. (2018, January 10). Isn’t it obvious? *Lincoln Mullen*.[ https://lincolnmullen.com/blog/isnt-it-obvious/](https://lincolnmullen.com/blog/isnt-it-obvious/)
+5. Schmidt, B. M. (2016). Do Digital Humanists Need to Understand Algorithms? In *Debates in the Digital Humanities 2016*. University Of Minnesota Press.[https://dhdebates.gc.cuny.edu/read/untitled/section/557c453b-4abb-48ce-8c38-a77e24d3f0bd#ch48](https://dhdebates.gc.cuny.edu/read/untitled/section/557c453b-4abb-48ce-8c38-a77e24d3f0bd#ch48)
 
 ### Class Activities
 - Seminar
 
 ### Reading Options
-- Andersen, J. W. (1989). Unobtrusive measures. In P. Emmert & L. L. Barker (Eds.), *Measurement of communication behavior* (pp. 249–266). Longman.
-- Jick, T. D. (1979). Mixing Qualitative and Quantitative Methods: Triangulation in Action. *Administrative Science Quarterly*, *24*(4), 602–611.[ https://doi.org/10.2307/2392366](https://doi.org/10.2307/2392366)
-- Lincoln, M. D. (2015, March 21). Confabulation in the humanities. *Matthew Lincoln, PhD*.[ https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html](https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html)
-- Mullen, L. (2018, January 10). Isn’t it obvious? *Lincoln Mullen*.[ https://lincolnmullen.com/blog/isnt-it-obvious/](https://lincolnmullen.com/blog/isnt-it-obvious/)
 - Salganik, M. J. (2017). 4.4 Moving beyond simple experiments. In *Bit by Bit*. Princeton University Press.[ https://www.bitbybitbook.com/en/1st-ed/running-experiments/beyond-simple/](https://www.bitbybitbook.com/en/1st-ed/running-experiments/beyond-simple/)
-- Schmidt, B. M. (2016). Do Digital Humanists Need to Understand Algorithms? In *Debates in the Digital Humanities 2016*. University Of Minnesota Press.[ https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45](https://dhdebates.gc.cuny.edu/read/untitled/section/ef78ddc7-4087-4bb3-b192-16724631a172#ch45)
 
 ## 4/3 - 23. Experimental Methods in Cultural Analytics
 Session Leader: India
