@@ -1,6 +1,6 @@
 TEI / Encoding Digital Editions
 
-By Jaclyn
+By Jaclyn Saik
 
 Digital archivization is challenging. In theory, it sounds like the perfect solution to preserving artifacts, texts and memories that are in danger of destruction from their physical form. Simply take a picture or make a scan, and we’ll be able to remember everything about it, forever, right? 
 
